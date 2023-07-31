@@ -1,0 +1,1 @@
+A [[Vulnerability|vulernability]] resulting from developers attempting to create their own security library, while expecting it to be as robust as well-known ones.

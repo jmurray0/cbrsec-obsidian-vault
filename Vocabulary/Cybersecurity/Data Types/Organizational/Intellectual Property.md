@@ -1,0 +1,1 @@
+Trade secrets and patented technologies that are only known to the company.

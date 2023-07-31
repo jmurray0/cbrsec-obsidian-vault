@@ -1,0 +1,1 @@
+A string which is returned by a [[Hashing Function]].

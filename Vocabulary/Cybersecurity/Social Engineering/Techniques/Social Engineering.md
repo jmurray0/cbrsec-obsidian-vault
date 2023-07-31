@@ -1,0 +1,1 @@
+The act of an [[Attacker|attacker]] achieving their goal through the means of persuasion, charm, or intimidation.

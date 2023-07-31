@@ -1,0 +1,1 @@
+An individual who conducts [[Penetration Testing|penetration testing.]]

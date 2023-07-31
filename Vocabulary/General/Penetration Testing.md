@@ -1,0 +1,1 @@
+The act of finding and exploiting a vulnerability in a computer system, software, or network, for the purpose of identifying security risks and disclosing them to the operator, author, or architect who designed it.

@@ -1,0 +1,3 @@
+[[Confidentiality]]
+[[Integrity]]
+[[Availability]]

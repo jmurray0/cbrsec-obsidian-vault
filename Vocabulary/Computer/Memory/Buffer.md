@@ -1,0 +1,1 @@
+A space in memory that is reserved for a [[Process|process.]]

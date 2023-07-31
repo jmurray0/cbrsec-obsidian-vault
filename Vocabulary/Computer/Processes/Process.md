@@ -1,0 +1,1 @@
+A program that runs on a computer.

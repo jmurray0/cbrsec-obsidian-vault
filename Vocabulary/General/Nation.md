@@ -1,0 +1,1 @@
+A sovereign state or country in the world.

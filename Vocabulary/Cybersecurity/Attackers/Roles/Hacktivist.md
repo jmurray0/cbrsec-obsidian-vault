@@ -1,0 +1,1 @@
+A [[Hacker|hacker]] that uses their skills to push a political message or punish people they believe are "unethical".

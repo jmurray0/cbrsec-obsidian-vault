@@ -1,0 +1,1 @@
+When an [[Attacker|attacker]] calls a victim and lies to them in an attempt to gain access to privileged data.

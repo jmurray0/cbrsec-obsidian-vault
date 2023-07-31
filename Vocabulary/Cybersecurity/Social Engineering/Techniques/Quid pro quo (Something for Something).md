@@ -1,0 +1,1 @@
+When an [[Attacker|attacker]] requests personal information from a victim in exchange for something, like a free gift, or money.

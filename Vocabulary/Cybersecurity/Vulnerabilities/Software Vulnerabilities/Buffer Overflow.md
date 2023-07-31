@@ -1,0 +1,1 @@
+A [[Vulnerability|vulernability]] when data is being written beyond the limits of the assigned [[Buffer|buffer.]]

@@ -1,0 +1,1 @@
+A function which takes data or data from files and generates a string based on what that initial data is. It will produce the same result if the data is exactly the same. **Any small change will result in the hash changing.**

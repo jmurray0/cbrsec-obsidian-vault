@@ -1,0 +1,1 @@
+A [[Vulnerability|vulernability]] when an input of any kind that is unexpected for a program to receive that results in altered behavior from that program.

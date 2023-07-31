@@ -1,0 +1,1 @@
+The overall economic numbers of the company. Profits, payrolls, cash flow, and bank statements.
