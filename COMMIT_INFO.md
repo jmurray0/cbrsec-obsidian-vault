@@ -37,7 +37,12 @@ git fetch
 ```
 Updates your remote-tracking branches.
 
+```bash
+git pull <-a>
+```
+Fetches changes from your current working repository. If it has updates, it will pull them. Useful for pulling from master.
 
 ```bash
-git 
+git update-index [--assume-unchanged/--assume-changed] <file>
 ```
+Modifies your local repo to ignore or prioritize the changes 

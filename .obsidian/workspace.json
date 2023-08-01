@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-                "mode": "preview",
+                "file": "COMMIT_INFO.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "42ddad5988c792c9"
-          }
-        ]
-      },
-      {
-        "id": "eb6f37e6a777be4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe887a3e53ba94d1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666666,
-                  "close": true
-                }
-              }
-            },
-            "group": "42ddad5988c792c9"
+            }
           }
         ]
       }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "file": "COMMIT_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "file": "COMMIT_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md"
+                "file": "COMMIT_INFO.md"
               }
             }
           }
@@ -191,6 +148,7 @@
   },
   "active": "acc92e8d5e75a8c4",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/General/Exploit.md",
     "Vocabulary/General/Vulnerability.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Buffer Overflow.md",
@@ -199,7 +157,6 @@
     "COMMIT_INFO.md",
     "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
     "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "README.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md"
   ]
