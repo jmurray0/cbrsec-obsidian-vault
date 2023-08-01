@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Computer/Operating System.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Computer/Operating System.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Computer/Operating System.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Computer/Operating System.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md"
               }
             }
           }
@@ -145,10 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c877be1fe9e2af3d",
+  "active": "1c8801d1ca856c17",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
     "Vocabulary/Computer/Operating System.md",
+    "Untitled.canvas",
     "Vocabulary/Computer/Computer.md",
     "Vocabulary/General/Port Scanner.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
