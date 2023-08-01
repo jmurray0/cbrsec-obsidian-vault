@@ -1,0 +1,1 @@
+The layer of internet access which describes [[Network Address Translation (NAT)]] and IP addressing outside of the local network.

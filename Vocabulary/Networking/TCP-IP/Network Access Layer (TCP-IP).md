@@ -1,0 +1,1 @@
+The layer of internet access which describes the connection from the host device to the local [[Network|network.]]

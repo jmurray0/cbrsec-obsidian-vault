@@ -1,0 +1,1 @@
+Concept which describes transforming a private IP address to a public IP address, and vice-versa. Router level.
