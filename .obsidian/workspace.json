@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "40d234a1c0c9e813",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
+    "README.md",
     "Vocabulary/Networking/Network.md",
     "Vocabulary/Networking/Packet.md",
     "Vocabulary/Networking",
@@ -176,11 +179,8 @@
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Adware.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques",
     "Vocabulary/Cybersecurity/Social Engineering",
-    "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Mobile.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Middle.md",
     "Vocabulary/Cybersecurity/Malware/Types",
     "Vocabulary/Cybersecurity/Malware",
     "Vocabulary/Computer/Processes",
