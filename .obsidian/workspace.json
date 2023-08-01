@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md"
+                "file": "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "b4a214cedc9d3f6f",
   "lastOpenFiles": [
-    "Guides/Infiltration/Exploiting Vulnerabilities.md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication/Open Authorization (OAuth).md",
+    "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
+    "Vocabulary/Cybersecurity/Defending/Firewalls",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication",
     "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
@@ -179,12 +182,9 @@
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Untitled.canvas",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
-    "Vocabulary/Cybersecurity/Hacking Techniques",
     "Vocabulary/Untitled.canvas"
   ]
 }

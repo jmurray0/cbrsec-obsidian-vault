@@ -1,0 +1,1 @@
+A filter which specifies which communications are allowed in and allowed out of a device or netw

@@ -1,0 +1,3 @@
+A standard protocol that enables an end user's credentials to access third party applications without exposing their password.
+
+An end user can login to one web service with the credentials of another. Web service A requests an access token from web service B, resulting in a handshake and allowing the end user to seamlessly transition from web service A's login screen and accessing web service B's content.
