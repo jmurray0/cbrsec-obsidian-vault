@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data.md",
+                "file": "Guides/COMMIT_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data.md",
+                "file": "Guides/COMMIT_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data.md",
+                "file": "Guides/COMMIT_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data.md"
+                "file": "Guides/COMMIT_INFO.md"
               }
             }
           }
@@ -160,8 +160,11 @@
   },
   "active": "9b060e3dba251234",
   "lastOpenFiles": [
-    "Books/Intro to Cyber Security/Chapter 1.md",
+    "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
+    "Guides/COMMIT_INFO.md",
+    "data.md",
     "Data.md",
+    "Books/Intro to Cyber Security/Chapter 1.md",
     "Vocabulary/Cybersecurity/Attackers/Insider.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Distributed Denial of Service (DDoS).md",
