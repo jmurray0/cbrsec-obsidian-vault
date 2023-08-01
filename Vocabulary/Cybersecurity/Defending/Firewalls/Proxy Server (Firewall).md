@@ -1,0 +1,1 @@
+A [[Firewall|firewall]] based inside of [[Proxy Server|proxy servers]]; filters web requests like URLs, domain, media, etc.

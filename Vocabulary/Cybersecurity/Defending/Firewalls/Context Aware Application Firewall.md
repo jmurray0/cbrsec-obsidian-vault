@@ -1,0 +1,1 @@
+A [[Firewall|firewall]] based on the user, device, role, application type, and threat profile. More intelligent on its own than a standard configuration-based firewall.
