@@ -1,0 +1,1 @@
+Similar to [[Phishing|phishing]], it is a targeted array of attacks augmented to affect an individual or a small group of people.

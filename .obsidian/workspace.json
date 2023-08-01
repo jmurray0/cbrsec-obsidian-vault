@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40d234a1c0c9e813",
+            "id": "6676c5d65b218909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40d234a1c0c9e813",
+  "active": "6676c5d65b218909",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
