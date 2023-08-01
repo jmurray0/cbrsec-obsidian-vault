@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14de290c01bb31ae",
+        "id": "768fac9a56d562cc",
         "type": "tabs",
         "children": [
           {
-            "id": "6676c5d65b218909",
+            "id": "b4a214cedc9d3f6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6676c5d65b218909",
+  "active": "b4a214cedc9d3f6f",
   "lastOpenFiles": [
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication/2-Factor Authentication (2FA).md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication",
     "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
@@ -163,7 +166,6 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Denial-of-Service (DoS).md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Overwhelming Quantity of Traffic.md",
-    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking/Network Sniffing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service",
@@ -179,12 +181,10 @@
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Phishing.md",
     "Untitled.canvas",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Hacking Techniques",
-    "Vocabulary/Cybersecurity/Wi-Fi Cracking",
     "Vocabulary/Untitled.canvas"
   ]
 }
