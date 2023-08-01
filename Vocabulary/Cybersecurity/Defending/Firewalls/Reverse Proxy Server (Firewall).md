@@ -1,1 +1,1 @@
-A [[Firewall|firewall]] based outside of 
+A [[Firewall|firewall]] based outside of [[Proxy Server|proxy servers]]; protect, hide, offload, and distribute access to [[Web Server|web servers.]]

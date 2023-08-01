@@ -1,0 +1,1 @@
+A server that specializes in caching web data to lighten web load on the rest of the network.

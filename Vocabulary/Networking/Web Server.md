@@ -1,0 +1,1 @@
+A server that specializes in serving websites through HTTP, HTTPS, and other applications.
