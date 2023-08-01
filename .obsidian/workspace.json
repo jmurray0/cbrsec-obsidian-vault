@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md"
+                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "6676c5d65b218909",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
+    "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+    "Vocabulary/Cybersecurity/Defending",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Scams/SEO Poisoning.md",
+    "Vocabulary/Computer/Internet/Search Engine Optimization.md",
+    "Vocabulary/Computer/Internet",
+    "Vocabulary/Computer/Untitled.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Distributed Denial of Service (DDoS).md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Scams",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Denial-of-Service (DoS).md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
@@ -174,17 +180,11 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Spear Phishing.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Access Control Oversight.md",
     "Vocabulary/Networking/Network.md",
-    "README.md",
     "Untitled.canvas",
-    "Vocabulary/Networking/Packet.md",
-    "Vocabulary/Cybersecurity/Attackers/Amateur.md",
-    "Vocabulary/Cybersecurity/Malware/Malware.md",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Hacking Techniques",
     "Vocabulary/Cybersecurity/Wi-Fi Cracking",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques",
-    "Vocabulary/Cybersecurity/Social Engineering",
     "Vocabulary/Untitled.canvas"
   ]
 }
