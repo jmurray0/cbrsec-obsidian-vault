@@ -25,6 +25,10 @@ git pull -a
 ```
 Your folder should now be replaced by the master branch.
 
+## PULLING FROM BRANCHES
+
+If you need to fetch a specific file (like an updated version of this one) from your branch, you need to move branches, pull the file, then move back to your old branch to prevent yourself from pushing to mast
+
 ## COMMAND LIST
 
 ```bash
@@ -38,11 +42,26 @@ git fetch
 Updates your remote-tracking branches.
 
 ```bash
-git pull <-a>
+git pull <file/dir/-a>
 ```
-Fetches changes from your current working repository. If it has updates, it will pull them. Useful for pulling from master.
+Fetches changes from your current working repository. If it has updates, it will pull them. Useful for pulling from master. `-a` means all.
 
 ```bash
-git update-index [--assume-unchanged/--assume-changed] <file>
+git push <file/dir/-a>
 ```
-Modifies your local repo to ignore or prioritize the changes 
+Pushes a specific file or directory to your local repository. `-a` means all.
+
+```bash
+git commit <file/dir/-a>
+```
+Uploads a specific file or directory to remote repository. `-a` means all.
+
+```bash
+git checkout <branch>
+```
+Updates your local container of branches. Adds previously unknown branches from remote.
+
+```bash
+git update-index [--assume-unchanged/--assume-changed] <file/dir>
+```
+Modifies your local repo to ignore or prioritize the changes of a specific file or directory.
