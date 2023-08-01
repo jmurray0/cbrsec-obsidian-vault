@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol.md",
+                "file": "Vocabulary/Networking/TCP-IP/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol.md",
+                "file": "Vocabulary/Networking/TCP-IP/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol.md",
+                "file": "Vocabulary/Networking/TCP-IP/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol.md"
+                "file": "Vocabulary/Networking/TCP-IP/Untitled.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "b4a214cedc9d3f6f",
   "lastOpenFiles": [
-    "Vocabulary/Networking/TCP-IP/Transmission Control Protocol.md",
     "Vocabulary/Networking/TCP-IP/Transmission Control Protocol - Internet Protocol (TCP-IP).md",
-    "Vocabulary/Networking/TCP-IP/User Datagram Protocol.md",
+    "Vocabulary/Networking/TCP-IP/Untitled.md",
+    "Vocabulary/Networking/TCP-IP/Transmission Control Protocol (TCP).md",
+    "Vocabulary/Networking/TCP-IP/User Datagram Protocol (UDP).md",
+    "Vocabulary/Networking/Voice Over Internet Protocol (VOIP).md",
+    "Vocabulary/Networking/Network.md",
+    "Vocabulary/Networking/Packet.md",
     "User Datagram Protocol.md",
     "Vocabulary/Networking/TCP-IP",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Transport Layer Firewall.md",
@@ -178,11 +182,7 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Denial-of-Service (DoS).md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Overwhelming Quantity of Traffic.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking/Network Sniffing.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
-    "Vocabulary/Computer/Processes/Daemon.md",
     "Guides/Infiltration",
     "Untitled.canvas",
     "Vocabulary/Untitled.canvas"
