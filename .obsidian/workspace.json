@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed6d71f87f7bb31a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress Reports/7-24-23 - 7-28-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c877be1fe9e2af3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethics.md",
+                "file": "Books/Intro to Cyber Security/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethics.md",
+                "file": "Books/Intro to Cyber Security/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethics.md",
+                "file": "Books/Intro to Cyber Security/Chapter 1.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethics.md"
+                "file": "Books/Intro to Cyber Security/Chapter 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,10 +149,11 @@
   "active": "cacf2867dd038548",
   "lastOpenFiles": [
     "Progress Reports/7-24-23 - 7-28-23.md",
-    "Ethics.md",
+    "Progress Reports/7-31-23 - 8-4-23.md",
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Vocabulary/Cybersecurity/CIA Triad/Ethics.md",
     "DONOTPUSH.md",
     "README.md",
-    "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports"
   ]
 }
