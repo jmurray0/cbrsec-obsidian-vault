@@ -1,0 +1,1 @@
+A text file that contains a list of common passwords, like *rockyou.txt*.

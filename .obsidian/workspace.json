@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute-force.md",
+                "file": "Vocabulary/Networking/Packet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute-force.md",
+                "file": "Vocabulary/Networking/Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute-force.md",
+                "file": "Vocabulary/Networking/Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute-force.md"
+                "file": "Vocabulary/Networking/Packet.md"
               }
             }
           }
@@ -148,7 +148,12 @@
   },
   "active": "40d234a1c0c9e813",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/Brute-force.md",
+    "Vocabulary/Networking/Network.md",
+    "Vocabulary/Networking/Packet.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+    "Vocabulary/Networking",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/Cybersecurity/Malware/Malware.md",
     "Vocabulary/Cybersecurity/Malware/Types/Rootkit.md",
     "Vocabulary/Cybersecurity/Malware/Types/Bot.md",
@@ -176,15 +181,10 @@
     "Vocabulary/Cybersecurity/Social Engineering",
     "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Mobile.md",
     "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Middle.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Trojan (horse).md",
-    "Vocabulary/Cybersecurity/Malware/Types/Spyware.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Virus.md",
     "Vocabulary/Cybersecurity/Malware/Types",
     "Vocabulary/Cybersecurity/Malware",
     "Vocabulary/Computer/Processes",
     "Vocabulary/Cybersecurity",
-    "Vocabulary/Computer/Memory",
     "Vocabulary/Untitled.canvas"
   ]
 }
