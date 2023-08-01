@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
+                "file": "Books/Intro to Cyber Security/Chapter 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b060e3dba251234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
+                "file": "Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
+                "file": "Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md"
+                "file": "Data.md"
               }
             }
           }
@@ -145,14 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8801d1ca856c17",
+  "active": "9b060e3dba251234",
   "lastOpenFiles": [
+    "Books/Intro to Cyber Security/Chapter 1.md",
+    "Data.md",
+    "Vocabulary/Cybersecurity/Attackers/Insider.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Distributed Denial of Service (DDoS).md",
+    "Vocabulary/Cybersecurity/Malware/Types/Botnet.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Bot.md",
+    "Vocabulary/Cybersecurity/Malware/Malware.md",
+    "Vocabulary/Cybersecurity/Data Types/Organizational/Personnel Information.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Privilege Escalation.md",
     "Vocabulary/Computer/Operating System.md",
     "Untitled.canvas",
     "Vocabulary/Computer/Computer.md",
     "Vocabulary/General/Port Scanner.md",
-    "Books/Intro to Cyber Security/Chapter 1.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
