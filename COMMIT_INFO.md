@@ -27,7 +27,7 @@ Your folder should now be replaced by the master branch.
 
 ## PULLING FROM BRANCHES
 
-If you need to fetch a specific file (like an updated version of this one) from your branch, you need to move branches, pull the file, then move back to your old branch to prevent yourself from pushing to mast
+If you need to fetch a specific file (like an updated version of this one) from your branch, you need to move branches, pull the file, then move back to your old branch to prevent yourself from pushing to master.
 
 ## COMMAND LIST
 
