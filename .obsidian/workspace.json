@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol (UDP).md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol (UDP).md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol (UDP).md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/TCP-IP/User Datagram Protocol (UDP).md"
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "92c2fdc186b46f85",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Attackers/Insider.md",
+    "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Black Hat Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
+    "Vocabulary/Cybersecurity/Defending/Firewalls/Reverse Proxy Server (Firewall).md",
+    "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
+    "Vocabulary/Cybersecurity/Defending/Firewalls/Context Aware Application Firewall.md",
+    "Vocabulary/Computer/Processes/Service (Windows).md",
+    "Vocabulary/Computer/Processes/Process.md",
+    "Vocabulary/Computer/Processes/Daemon.md",
+    "Vocabulary/Computer/Memory/Buffer.md",
+    "Vocabulary/Computer/Internet/Search Engine Optimization.md",
+    "Vocabulary/Networking/TCP-IP/User Datagram Protocol (UDP).md",
     "Vocabulary/Networking/TCP-IP/Transport Layer (TCP-IP).md",
     "Vocabulary/Networking/TCP-IP/Transmission Control Protocol (TCP).md",
     "Vocabulary/Networking/TCP-IP/Transmission Control Protocol - Internet Protocol (TCP-IP).md",
     "Vocabulary/Networking/TCP-IP/Internet Layer (TCP-IP).md",
     "Vocabulary/Networking/Network.md",
-    "Vocabulary/Computer/Memory/Buffer.md",
-    "Vocabulary/Computer/Internet/Search Engine Optimization.md",
     "Vocabulary/Cybersecurity/Malware/Types/Adware.md",
     "Vocabulary/Cybersecurity/Malware/Malware.md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Transport Layer Firewall.md",
-    "Vocabulary/Cybersecurity/Defending/Firewalls/Reverse Proxy Server (Firewall).md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Proxy Server (Firewall).md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Network Layer Firewall.md",
-    "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Application Layer Firewall.md",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
-    "Vocabulary/General/Cybersecurity.md",
-    "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
-    "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
-    "Vocabulary/Cybersecurity/Attackers/Roles/Penetration Tester.md",
-    "Vocabulary/General/Penetration Testing.md",
-    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
-    "Vocabulary/Networking/Proxy Server.md",
-    "Vocabulary/Networking/Web Server.md",
-    "Vocabulary/Computer/Server.md",
     "Vocabulary/Networking/TCP-IP",
     "Vocabulary/Networking 1",
     "Attachments",
