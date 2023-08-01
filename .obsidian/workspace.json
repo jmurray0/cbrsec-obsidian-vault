@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "898d4dba3b67d967",
+        "id": "14de290c01bb31ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e4df3b0cb0da88c3",
+            "id": "40d234a1c0c9e813",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -354.75,
-                  "y": 35.499999999999915,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4df3b0cb0da88c3",
+  "active": "40d234a1c0c9e813",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Malware/Malware.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Rootkit.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Bot.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Botnet.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Untitled.canvas",
     "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
@@ -172,9 +165,6 @@
     "Vocabulary/Cybersecurity/Malware/Types/Adware.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques",
     "Vocabulary/Cybersecurity/Social Engineering",
-    "Vocabulary/Cybersecurity/Malware/Types/Bot.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Botnet.md",
-    "Vocabulary/Cybersecurity/Malware/Malware.md",
     "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Mobile.md",
     "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Middle.md",
     "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
