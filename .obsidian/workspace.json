@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "6676c5d65b218909",
   "lastOpenFiles": [
-    "Vocabulary/Computer/Processes/Daemon.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Overwhelming Quantity of Traffic.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Denial-of-Service.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking/Network Sniffing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
+    "Vocabulary/Computer/Processes/Daemon.md",
     "Guides/Infiltration",
     "Vocabulary/Cybersecurity/Attackers/Advanced Persistent Threat.md",
     "Guides",
@@ -157,10 +164,7 @@
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
@@ -174,8 +178,6 @@
     "Vocabulary/Cybersecurity/Malware/Malware.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Hardware Vulnerability.md",
     "Vocabulary/Computer/Processes/Service (Windows).md",
-    "Vocabulary/Computer/Processes/Process.md",
-    "Vocabulary/Computer/Memory/Buffer.md",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Hacking Techniques",
@@ -183,7 +185,6 @@
     "Vocabulary/Cybersecurity/Social Engineering/Techniques",
     "Vocabulary/Cybersecurity/Social Engineering",
     "Vocabulary/Cybersecurity/Malware/Types",
-    "Vocabulary/Cybersecurity/Malware",
     "Vocabulary/Untitled.canvas"
   ]
 }
