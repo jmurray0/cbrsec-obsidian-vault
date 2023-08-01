@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System.md",
+                "file": "Vocabulary/Computer/Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System.md",
+                "file": "Vocabulary/Computer/Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System.md",
+                "file": "Vocabulary/Computer/Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System.md"
+                "file": "Vocabulary/Computer/Operating System.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,10 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f9f5598bfa14b6",
+  "active": "c877be1fe9e2af3d",
   "lastOpenFiles": [
-    "Operating System.md",
-    "Port Scanner.md",
+    "Untitled.canvas",
+    "Vocabulary/Computer/Operating System.md",
+    "Vocabulary/Computer/Computer.md",
+    "Vocabulary/General/Port Scanner.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
