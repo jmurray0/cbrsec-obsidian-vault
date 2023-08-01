@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Impact Reduction.md"
+                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "6676c5d65b218909",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
     "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+    "Vocabulary/Cybersecurity/Defending/Encryption.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Eavesdropping.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
     "Vocabulary/Cybersecurity/Defending",
     "Vocabulary/Cybersecurity/Hacking Techniques/Scams/SEO Poisoning.md",
     "Vocabulary/Computer/Internet/Search Engine Optimization.md",
@@ -178,8 +180,6 @@
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Phishing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Spear Phishing.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Access Control Oversight.md",
-    "Vocabulary/Networking/Network.md",
     "Untitled.canvas",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",

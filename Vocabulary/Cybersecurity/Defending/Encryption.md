@@ -1,0 +1,1 @@
+The process of converting information into a form where an unauthorized party cannot read it.
