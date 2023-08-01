@@ -1,0 +1,1 @@
+Organizations of [[Hacker|hackers]] which execute multi-phase, long term, stealthy, and advanced operations against one specific target. 

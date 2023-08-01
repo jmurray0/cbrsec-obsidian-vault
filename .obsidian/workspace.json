@@ -11,8 +11,12 @@
             "id": "6676c5d65b218909",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md"
+              }
             }
           }
         ]
@@ -140,35 +148,35 @@
   },
   "active": "6676c5d65b218909",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
+    "Guides/Infiltration",
+    "Vocabulary/Cybersecurity/Attackers/Advanced Persistent Threat.md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
+    "Guides",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Access Control Oversight.md",
     "Vocabulary/Networking/Network.md",
-    "Untitled",
     "README.md",
     "Untitled.canvas",
     "Vocabulary/Networking/Packet.md",
     "Vocabulary/Cybersecurity/Attackers/Amateur.md",
-    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Malware/Malware.md",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Hardware Vulnerability.md",
     "Vocabulary/Computer/Processes/Service (Windows).md",
     "Vocabulary/Computer/Processes/Process.md",
     "Vocabulary/Computer/Processes/Daemon.md",
     "Vocabulary/Computer/Memory/Buffer.md",
-    "Progress Reports/7-31-23 - 8-4-23.md",
-    "Progress Reports/7-24-23 - 7-28-23.md",
     "Vocabulary/Networking",
-    "Vocabulary/Cybersecurity/Malware/Types/Rootkit.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Hacking Techniques",
     "Vocabulary/Cybersecurity/Wi-Fi Cracking",
@@ -176,7 +184,6 @@
     "Vocabulary/Cybersecurity/Social Engineering",
     "Vocabulary/Cybersecurity/Malware/Types",
     "Vocabulary/Cybersecurity/Malware",
-    "Vocabulary/Computer/Processes",
     "Vocabulary/Untitled.canvas"
   ]
 }
