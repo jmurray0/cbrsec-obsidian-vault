@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port Scanner.md",
+                "file": "Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port Scanner.md",
+                "file": "Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port Scanner.md",
+                "file": "Operating System.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Port Scanner.md"
+                "file": "Operating System.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "35f9f5598bfa14b6",
   "lastOpenFiles": [
+    "Operating System.md",
     "Port Scanner.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
