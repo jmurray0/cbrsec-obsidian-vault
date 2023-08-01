@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Network.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Network.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Network.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Network.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md"
               }
             }
           }
@@ -146,17 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e46d31f032b71cbc",
+  "active": "6676c5d65b218909",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Access Control Oversight.md",
+    "Vocabulary/Networking/Network.md",
     "Untitled",
     "README.md",
-    "Vocabulary/Networking/Network.md",
     "Untitled.canvas",
     "Vocabulary/Networking/Packet.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Network Sniffing.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Attackers/Amateur.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Malware/Malware.md",
@@ -165,17 +169,14 @@
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Hardware Vulnerability.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Computer/Processes/Service (Windows).md",
     "Vocabulary/Computer/Processes/Process.md",
     "Vocabulary/Computer/Processes/Daemon.md",
     "Vocabulary/Computer/Memory/Buffer.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Malware/Types/Rootkit.md",
-    "Vocabulary/Cybersecurity/Malware/Types/Bot.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Hacking Techniques",
     "Vocabulary/Cybersecurity/Wi-Fi Cracking",
@@ -184,7 +185,6 @@
     "Vocabulary/Cybersecurity/Malware/Types",
     "Vocabulary/Cybersecurity/Malware",
     "Vocabulary/Computer/Processes",
-    "Vocabulary/Cybersecurity",
     "Vocabulary/Untitled.canvas"
   ]
 }
