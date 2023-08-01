@@ -1,0 +1,1 @@
+The fundamental concept of computer networking which describes how data should be compartmentalized and transmitted.

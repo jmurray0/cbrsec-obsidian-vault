@@ -1,0 +1,1 @@
+A [[Firewall|firewall]] based on source and destination IP addresses.
