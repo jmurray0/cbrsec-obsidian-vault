@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "35898a2bf5fe9a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "898d4dba3b67d967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4df3b0cb0da88c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -354.75,
+                  "y": 35.499999999999915,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "234f7c6dc0268f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "e490ace68d9bb963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46d31f032b71cbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7069c5652217b21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be5387139d04e1b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "caedd4a42e0818a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8100269166d26949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb28a57fa0b67d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "155d716c6cab0ed8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42317e8048aacdc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5671364cb17bb46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4df3b0cb0da88c3",
+  "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Untitled.canvas",
+    "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
+    "Vocabulary/Cybersecurity/Attackers/Roles/Terrorist.md",
+    "Vocabulary/General/Vulnerability.md",
+    "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
+    "Vocabulary/Cybersecurity/Attackers/Insider.md",
+    "Books/Intro to Cyber Security/Chapter 1.md",
+    "Vocabulary/Computer/Memory/Buffer.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
+    "Vocabulary/Cybersecurity/Untitled.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
+    "Vocabulary/Cybersecurity/Hacking Techniques",
+    "Vocabulary/Cybersecurity/Wi-Fi Cracking",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Adware.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques",
+    "Vocabulary/Cybersecurity/Social Engineering",
+    "Vocabulary/Cybersecurity/Malware/Types/Bot.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Botnet.md",
+    "Vocabulary/Cybersecurity/Malware/Malware.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Mobile.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Man-in-the-Middle.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Trojan (horse).md",
+    "Vocabulary/Cybersecurity/Malware/Types/Spyware.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Virus.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
+    "Vocabulary/Cybersecurity/Malware/Types",
+    "Vocabulary/Cybersecurity/Malware",
+    "Vocabulary/Computer/Processes",
+    "Vocabulary/Cybersecurity",
+    "Vocabulary/Computer/Memory",
+    "Vocabulary/Untitled.canvas"
+  ]
+}
