@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "6676c5d65b218909",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Overwhelming Quantity of Traffic.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Distributed Denial of Service (DDoS).md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Search Engine Optimization.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Scams",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Denial-of-Service (DoS).md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Maliciously Formatted Packets.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Denial-of-Service.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Overwhelming Quantity of Traffic.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking/Network Sniffing.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
@@ -167,8 +170,8 @@
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Phishing.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Spear Phishing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Phishing.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Scams/Spear Phishing.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Access Control Oversight.md",
     "Vocabulary/Networking/Network.md",
     "README.md",
@@ -176,15 +179,12 @@
     "Vocabulary/Networking/Packet.md",
     "Vocabulary/Cybersecurity/Attackers/Amateur.md",
     "Vocabulary/Cybersecurity/Malware/Malware.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Hardware Vulnerability.md",
-    "Vocabulary/Computer/Processes/Service (Windows).md",
     "Vocabulary/Networking",
     "Vocabulary/Cybersecurity/Hacking Techniques/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Hacking Techniques",
     "Vocabulary/Cybersecurity/Wi-Fi Cracking",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques",
     "Vocabulary/Cybersecurity/Social Engineering",
-    "Vocabulary/Cybersecurity/Malware/Types",
     "Vocabulary/Untitled.canvas"
   ]
 }

@@ -1,1 +1,1 @@
-A [[Denial-of-Service]] which targets a network, host, or application, and 
+A [[Denial-of-Service (DoS)]] which targets a network, host, or application, and sends a special [[Packet|packet]] which is designed to halt or crash the target's software or hardware.
