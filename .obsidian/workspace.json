@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md"
+                "file": "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "92c2fdc186b46f85",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Attackers/Black Hat Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Attackers/Insider.md",
     "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/Grey Hat Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/Black Hat Hacker.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Reverse Proxy Server (Firewall).md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Firewall.md",
