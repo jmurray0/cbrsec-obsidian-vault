@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
+                "file": "Vocabulary/Networking/Internet of Things (IoT).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
+                "file": "Vocabulary/Networking/Internet of Things (IoT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
+                "file": "Vocabulary/Networking/Internet of Things (IoT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md"
+                "file": "Vocabulary/Networking/Internet of Things (IoT).md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
     "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
+    "Vocabulary/Networking/Internet of Things (IoT).md",
+    "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
     "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
     "Vocabulary/Networking/Hardware/Intrusion Detection System (IDS).md",
@@ -186,7 +187,6 @@
     "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Networking/Network.md",
     "Vocabulary/Networking/Hardware/Cisco Next Generation Firewalls.md",
-    "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
     "Vocabulary/Networking/Hardware",
     "Progress Reports"
   ]
