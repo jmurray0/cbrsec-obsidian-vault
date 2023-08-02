@@ -20,4 +20,5 @@ Highly specialized review and evaluation of incoming cybersecurity information t
 #### OVERSIGHT AND DEVELOPMENT
 Leadership, management, and direction to conduct cybersecurity work effectively.
 
-#### SECURELY PROV
+#### SECURELY PROVISION
+Conceptualizing, designing, and building secure IT systems.
