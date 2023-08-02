@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
+                "file": "Guides/COMMIT_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
+                "file": "Guides/COMMIT_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md",
+                "file": "Guides/COMMIT_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Encryption.md"
+                "file": "Guides/COMMIT_INFO.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "f34d15e3ecb74bac",
   "lastOpenFiles": [
-    "VPN.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
+    "Vocabulary/Cybersecurity/Defending/VPN.md",
     "Encryption.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Guides/Infiltration/Kill Chain.md",
