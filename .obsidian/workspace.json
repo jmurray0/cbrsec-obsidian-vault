@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md"
+                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Vocabulary/Cybersecurity/Defending/Honeypot.md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/Malware/Types/Spyware.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Command and Control (C2).md",
@@ -175,7 +176,6 @@
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports",
-    "README.md",
-    "Vocabulary/General/Exploit.md"
+    "README.md"
   ]
 }
