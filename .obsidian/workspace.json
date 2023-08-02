@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Networking/Internet of Things (IoT).md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/DNS Poisoning.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Eavesdropping.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
+    "Vocabulary/Networking/Internet of Things (IoT).md",
     "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
     "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
@@ -183,10 +187,6 @@
     "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
     "Guides/Conceptual",
     "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
-    "Vocabulary/Networking/Hardware/Untitled.md",
-    "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
-    "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
-    "Vocabulary/Networking/Network.md",
     "Vocabulary/Networking/Hardware",
     "Progress Reports"
   ]

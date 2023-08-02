@@ -1,0 +1,1 @@
+An [[Attacker|attacker]] constructs packets to appear as if they are part of an ongoing communication with an established network.

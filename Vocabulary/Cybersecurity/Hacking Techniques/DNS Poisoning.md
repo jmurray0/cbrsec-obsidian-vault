@@ -1,0 +1,1 @@
+An [[Attacker|attacker]] contributes false data into a DNS resolver's cache, resulting in false redirects to a website operated by the attacker.
