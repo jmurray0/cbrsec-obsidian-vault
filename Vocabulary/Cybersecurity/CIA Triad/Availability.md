@@ -1,1 +1,0 @@
-Upkeep of equipment and resources used in providing access to data.

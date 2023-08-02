@@ -3,14 +3,11 @@ A concept developed by Lockheed Martin which describes the escalation process of
 ****
 ## PRE-COMPROMISE
 *Staging of an attack.*
-
-**STAGE 1:**
-***Reconnaissance***
+### STAGE 1: Reconnaissance
 
 The attacker gathers information about the target. [[Network Sniffing]] and [[Port Scanner|Port Scanners]] are used at this step.
 
-**STAGE 2:**
-***Weaponization***
+### STAGE 2: Weaponization
 
 The attacker creates an exploit and malicious payload to send to the target.
 
@@ -48,3 +45,5 @@ Remote control of the target is gained through a [[Command and Control (C2)|comm
 The attacker performs malicious actions like information theft or executes additional attacks on other devices on the network by working through the kill chain again.
 
 ****
+
+- 

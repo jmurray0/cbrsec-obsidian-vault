@@ -1,1 +1,0 @@
-Accuracy, consistency, and trustworthiness of data during its lifetime.
