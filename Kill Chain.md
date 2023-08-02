@@ -1,0 +1,1 @@
+In cyber security, the Kill Chain is the stages of an information systems attack. Developed by Lockheed Martin as a security framework for incident detection and response, the 

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d67fd21ce0151c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kill Chain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/COMMIT_INFO.md",
+                "file": "Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/COMMIT_INFO.md",
+                "file": "Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/COMMIT_INFO.md"
+                "file": "Kill Chain.md"
               }
             }
           }
@@ -158,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b060e3dba251234",
+  "active": "8d67fd21ce0151c6",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
     "Guides/COMMIT_INFO.md",
+    "Kill Chain.md",
+    "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
     "data.md",
     "Data.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
