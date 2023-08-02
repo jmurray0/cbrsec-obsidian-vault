@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "collapse-filter": false,
+=======
+  "collapse-filter": true,
+>>>>>>> origin/prod
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -10,6 +14,7 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
+<<<<<<< HEAD
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 0.9973125,
   "collapse-forces": false,
@@ -19,4 +24,15 @@
   "linkDistance": 250,
   "scale": 0.19753086419753066,
   "close": true
+=======
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6666666666666666,
+  "close": false
+>>>>>>> origin/prod
 }

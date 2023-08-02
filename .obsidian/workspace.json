@@ -158,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f34d15e3ecb74bac",
+  "active": "cacf2867dd038548",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/thistestnote.md",
+    "COMMIT_INFO.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
     "Vocabulary/Cybersecurity/Defending/VPN.md",
     "Encryption.md",
@@ -185,8 +187,6 @@
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/CIA Triad/Ethics.md",
-    "DONOTPUSH.md",
     "Progress Reports"
   ]
 }
