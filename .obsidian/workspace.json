@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
+    "Vocabulary/Networking/Hardware/Intrusion Detection System (IDS).md",
+    "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
+    "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Networking/Network.md",
     "Vocabulary/Networking/Hardware/Cisco Next Generation Firewalls.md",
     "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
-    "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
     "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
     "Vocabulary/Networking/Hardware/Cisco Integrated Services Router (ISR).md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Application Layer Firewall.md",
@@ -173,7 +175,6 @@
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
     "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
-    "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
-    "Guides/Infiltration/Exploiting Vulnerabilities.md"
+    "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md"
   ]
 }
