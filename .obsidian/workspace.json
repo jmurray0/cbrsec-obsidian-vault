@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
+                "file": "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/National Cybersecurity Workforce Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
+                "file": "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/National Cybersecurity Workforce Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
+                "file": "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/National Cybersecurity Workforce Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md"
+                "file": "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/National Cybersecurity Workforce Framework.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Hacking Techniques/DNS Poisoning.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
+    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/National Cybersecurity Workforce Framework.md",
+    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
+    "Vocabulary/Cybersecurity/Hacking Techniques/DNS Poisoning.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Eavesdropping.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
@@ -186,7 +188,6 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Command and Control (C2).md",
     "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
     "Guides/Conceptual",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
     "Vocabulary/Networking/Hardware",
     "Progress Reports"
   ]
