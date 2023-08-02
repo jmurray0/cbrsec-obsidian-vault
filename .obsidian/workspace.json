@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md"
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
+    "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
+    "Vocabulary/Networking/Hardware/Intrusion Detection System (IDS).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
+    "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
     "Vocabulary/Cybersecurity/Defending/Recovery/Data Loss Prevention Software (DLP).md",
     "Vocabulary/Cybersecurity/Defending/Recovery",
     "Vocabulary/Cybersecurity/Defending/Untitled.md",
@@ -171,8 +173,6 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
     "Vocabulary/Networking/Hardware/Untitled.md",
     "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
-    "Vocabulary/Networking/Hardware/Intrusion Detection System (IDS).md",
-    "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
     "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Networking/Network.md",
     "Vocabulary/Networking/Hardware/Cisco Next Generation Firewalls.md",
