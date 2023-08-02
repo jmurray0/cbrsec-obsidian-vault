@@ -1,0 +1,1 @@
+A database which contains a list of all publicly known vulnerabilities.

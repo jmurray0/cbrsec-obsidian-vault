@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Internet of Things (IoT).md",
+                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Internet of Things (IoT).md",
+                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Internet of Things (IoT).md",
+                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Internet of Things (IoT).md"
+                "file": "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
     "Vocabulary/Networking/Internet of Things (IoT).md",
+    "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
+    "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
     "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
@@ -186,7 +187,6 @@
     "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
     "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Networking/Network.md",
-    "Vocabulary/Networking/Hardware/Cisco Next Generation Firewalls.md",
     "Vocabulary/Networking/Hardware",
     "Progress Reports"
   ]
