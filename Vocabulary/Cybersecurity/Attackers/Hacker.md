@@ -1,6 +1,6 @@
 Individuals who break into computers or networks to gain access. They utilize [[Vulnerability|vulnerabilities]] and [[Exploit|exploit]] them to achieve their goals.
 
-There are many different types of hacker, such as:
+There are many different types of hacker each with different [[Ethics]], such as:
 - [[White Hat Hacker]]
 - [[Grey Hat Hacker]]
 - [[Black Hat Hacker]]

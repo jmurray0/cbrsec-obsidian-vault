@@ -1,0 +1,1 @@
+When a user connects through an [[Encryption|encrypted]] VPN tunnel on a public Wi-Fi network, any data being sent or received from the user will be undecipherable.
