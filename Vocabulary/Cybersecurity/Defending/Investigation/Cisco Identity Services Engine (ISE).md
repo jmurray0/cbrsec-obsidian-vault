@@ -1,0 +1,1 @@
+Assists [[TrustSec]] with traffic classification by checking user and device identities.

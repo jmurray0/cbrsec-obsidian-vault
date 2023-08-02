@@ -1,0 +1,1 @@
+A software system that collects and analyzes security alerts, logs, and other realtime and historical data from security devices on the network.

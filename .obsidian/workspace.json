@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md"
+                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
+    "Vocabulary/Cybersecurity/Defending/Investigation/TrustSec.md",
+    "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
+    "Vocabulary/Cybersecurity/Defending/Recovery/Data Loss Prevention Software (DLP).md",
+    "Vocabulary/Cybersecurity/Defending/Recovery",
+    "Vocabulary/Cybersecurity/Defending/Untitled.md",
+    "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
+    "Vocabulary/Cybersecurity/Defending/Investigation/NetFlow.md",
     "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
-    "Vocabulary/Cybersecurity/Defending/Software/NetFlow.md",
+    "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
     "Vocabulary/Cybersecurity/Defending/Organizations",
     "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
-    "Vocabulary/Cybersecurity/Defending/Software",
+    "Vocabulary/Cybersecurity/Defending/Investigation",
     "Vocabulary/Cybersecurity/Defending/Honeypot.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
@@ -172,12 +178,7 @@
     "Vocabulary/Networking/Hardware/Cisco Next Generation Firewalls.md",
     "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
     "Vocabulary/Networking/Hardware/Cisco Integrated Services Router (ISR).md",
-    "Vocabulary/Cybersecurity/Defending/Firewalls/Application Layer Firewall.md",
     "Vocabulary/Networking/Hardware",
-    "COMMIT_INFO.md",
-    "assumme.md",
-    "Vocabulary/assumme.md",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Progress Reports"
   ]
 }
