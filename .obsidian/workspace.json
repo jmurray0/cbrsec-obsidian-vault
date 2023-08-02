@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md"
+                "file": "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
     "Vocabulary/Cybersecurity/Defending/Honeypot.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
