@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Kill Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kill Chain.md",
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,11 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kill Chain.md"
+                "file": "Vocabulary/Cybersecurity/Hacking Techniques/Kill Chain.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,12 +173,12 @@
   },
   "active": "8d67fd21ce0151c6",
   "lastOpenFiles": [
+    "Books/Intro to Cyber Security/Chapter 1.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Kill Chain.md",
     "Guides/COMMIT_INFO.md",
-    "Kill Chain.md",
     "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
     "data.md",
     "Data.md",
-    "Books/Intro to Cyber Security/Chapter 1.md",
     "Vocabulary/Cybersecurity/Attackers/Insider.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Denial of Service/Distributed Denial of Service (DDoS).md",
