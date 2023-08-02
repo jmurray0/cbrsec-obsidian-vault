@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+                "file": "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+                "file": "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+                "file": "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md"
+                "file": "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md"
               }
             }
           },
@@ -157,7 +157,12 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/CIA Triad/Confidentiality.md",
+    "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
+    "Vocabulary/Cybersecurity/CIA Triad/Integrity.md",
+    "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
     "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
+    "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Protect and Defend (NCWF).md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Investigate (NCWF).md",
@@ -181,13 +186,8 @@
     "Vocabulary/Cybersecurity/Defending/Untitled.md",
     "Vocabulary/Cybersecurity/Defending/Investigation/NetFlow.md",
     "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
-    "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
     "Vocabulary/Cybersecurity/Defending/Organizations",
-    "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
     "Vocabulary/Cybersecurity/Defending/Investigation",
-    "Vocabulary/Cybersecurity/Defending/Honeypot.md",
-    "Guides/Conceptual/Cyber Defense Kill Chain.md",
-    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Guides/Conceptual",
     "Vocabulary/Networking/Hardware",
     "Progress Reports"
