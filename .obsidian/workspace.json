@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b218c80ca072b49",
+        "id": "1c40de05b3164991",
         "type": "tabs",
         "children": [
           {
-            "id": "acc92e8d5e75a8c4",
+            "id": "4112b81e26ceeddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Vocabulary/Networking/Hardware/Cisco Integrated Services Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Vocabulary/Networking/Hardware/Cisco Integrated Services Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Vocabulary/Networking/Hardware/Cisco Integrated Services Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMMIT_INFO.md"
+                "file": "Vocabulary/Networking/Hardware/Cisco Integrated Services Router.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acc92e8d5e75a8c4",
+  "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Defending/Firewalls/Application Layer Firewall.md",
+    "Vocabulary/Networking/Hardware/Cisco Integrated Services Router.md",
+    "Vocabulary/Networking/Hardware",
+    "COMMIT_INFO.md",
     "assumme.md",
     "Vocabulary/assumme.md",
-    "COMMIT_INFO.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/thistestnote.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
