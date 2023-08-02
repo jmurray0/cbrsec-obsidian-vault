@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Command and Control (C2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Command and Control (C2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
+                "file": "Command and Control (C2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md"
+                "file": "Command and Control (C2).md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Command and Control (C2).md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
+    "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
     "Guides/Conceptual",
     "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
     "Vocabulary/Networking/Hardware/Untitled.md",
@@ -173,9 +176,6 @@
     "Progress Reports",
     "README.md",
     "Vocabulary/General/Exploit.md",
-    "Vocabulary/General/Vulnerability.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Buffer Overflow.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md"
+    "Vocabulary/General/Vulnerability.md"
   ]
 }

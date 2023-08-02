@@ -4,17 +4,17 @@ A concept which describes the escalation process of an [[Attacker|attacker]] att
 *Staging of an attack.*
 
 **STAGE 1:**
-Reconnaissance
+***Reconnaissance***
 
 The attacker gathers information about the target. [[Network Sniffing]] and [[Port Scanner|Port Scanners]] are used at this step.
 
 **STAGE 2:**
-Weaponization
+***Weaponization***
 
 The attacker creates an exploit and malicious payload to send to the target.
 
 **STAGE 3:**
-Delivery
+***Delivery***
 
 The attacker sends the exploit and malicious payload to the target by email or other method.
 
@@ -22,11 +22,19 @@ The attacker sends the exploit and malicious payload to the target by email or o
 *The attack's initial exploits are being deployed onto the network.*
 
 **STAGE 4:**
-Exploitation
+***Exploitation***
 
 The exploit is executed.
 
 **STAGE 5:**
-Installation
+***Installation***
 
-[[Malware]] and [[Backdoor]]
+[[Malware]] and [[Backdoor|Backdoors]] are being installed onto the target systems or network.
+
+## POST-COMPROMISE
+*The infiltration is complete, and the attacker will complete their mission.*
+
+**STAGE 6:**
+***Command and Control***
+
+Remote control of the target is gained through a [[Command and Control (C2)|command and control]] channel or server.
