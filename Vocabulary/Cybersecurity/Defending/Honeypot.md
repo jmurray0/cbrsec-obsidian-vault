@@ -1,1 +1,1 @@
-The concept of creating an enticing bait to expl
+The concept of creating an enticing bait to exploit the patterns of malicious behavior of an [[Attacker|attacker]], likely to make it easier to detect 
