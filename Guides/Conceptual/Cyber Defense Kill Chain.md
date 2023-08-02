@@ -11,8 +11,7 @@ The attacker gathers information about the target. [[Network Sniffing]] and [[Po
 
 The attacker creates an exploit and malicious payload to send to the target.
 
-**STAGE 3:**
-***Delivery***
+### STAGE 3: Delivery
 
 The attacker sends the exploit and malicious payload to the target by email or other method.
 
@@ -20,13 +19,11 @@ The attacker sends the exploit and malicious payload to the target by email or o
 ## COMPROMISE
 *The attack's initial exploits are being deployed onto the network.*
 
-**STAGE 4:**
-***Exploitation***
+### STAGE 4: Exploitation
 
 The exploits are executed.
 
-**STAGE 5:**
-***Installation***
+#### STAGE 5: Installation
 
 [[Malware]] and [[Backdoor|Backdoors]] are being installed onto the target systems or network.
 
