@@ -1,1 +1,0 @@
-A suite of client and server programs which enable an [[Attacker|attacker]] to remotely administrate a host or network.

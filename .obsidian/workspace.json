@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command and Control (C2).md",
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command and Control (C2).md",
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command and Control (C2).md",
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command and Control (C2).md"
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Guides/Conceptual/Cyber Defense Kill Chain.md",
-    "Command and Control (C2).md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
+    "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Spyware.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Command and Control (C2).md",
     "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
     "Guides/Conceptual",
     "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
@@ -175,7 +176,6 @@
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports",
     "README.md",
-    "Vocabulary/General/Exploit.md",
-    "Vocabulary/General/Vulnerability.md"
+    "Vocabulary/General/Exploit.md"
   ]
 }
