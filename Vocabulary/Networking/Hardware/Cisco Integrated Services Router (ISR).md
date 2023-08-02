@@ -1,1 +1,1 @@
-A [[Router|router]] created by Cisco which has the capability of supporting [[Firewall|firewalls]], [[Traffic Filtering|traffic filtering]], an [[Intr]]
+A [[Router|router]] created by Cisco which has the capability of supporting [[Firewall|firewalls]], [[Traffic Filtering|traffic filtering]], an [[Intrusion Prevention System (IPS)]], [[Encryption|encryption]], and [[Virtual Private Network (VPN)|virtual private network]] functionality.

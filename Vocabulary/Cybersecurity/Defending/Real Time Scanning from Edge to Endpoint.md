@@ -1,0 +1,1 @@
+Detecting an [[Attacker|attacker]] using firewalls and [[Intrusion Prevention System (IPS)]]
