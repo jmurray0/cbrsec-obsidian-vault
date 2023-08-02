@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "commitMessage": "vault backup: {{date}}",
-=======
-  "commitMessage": "jaydenlm - vault backup: {{date}}",
->>>>>>> origin/prod
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
@@ -22,11 +18,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-<<<<<<< HEAD
   "changedFilesInStatusBar": false,
-=======
-  "changedFilesInStatusBar": true,
->>>>>>> origin/prod
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
