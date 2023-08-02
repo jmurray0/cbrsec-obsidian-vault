@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
+                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md"
+                "file": "Vocabulary/Cybersecurity/Defending/Security Playbook.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Defending/Software/NetFlow.md",
     "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
+    "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
+    "Vocabulary/Cybersecurity/Defending/Software/NetFlow.md",
     "Vocabulary/Cybersecurity/Defending/Organizations",
     "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
     "Vocabulary/Cybersecurity/Defending/Software",
@@ -177,7 +178,6 @@
     "assumme.md",
     "Vocabulary/assumme.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/thistestnote.md",
     "Progress Reports"
   ]
 }
