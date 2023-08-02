@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "ffb286f8e15185c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b218c80ca072b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc92e8d5e75a8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "029847a56007e860",
+    "type": "split",
+    "children": [
+      {
+        "id": "4734a9fddd88cd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196a29d277ef04b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78d0fa90898c651e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15705b515c0e8964",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b15ffeb7dec49c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "20da325b7a930bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7dd64b009f994e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90b9cd8bd0d6eb79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "254d51027d0d5a82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e592d5dbe7af1175",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acc92e8d5e75a8c4",
+  "lastOpenFiles": [
+    "COMMIT_INFO.md",
+    "README.md",
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Vocabulary/General/Exploit.md",
+    "Vocabulary/General/Vulnerability.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Buffer Overflow.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
+    "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
+    "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md"
+  ]
+}

@@ -5,7 +5,7 @@ There are many different types of hacker, such as:
 - [[Grey Hat Hacker]]
 - [[Black Hat Hacker]]
 
-Each of these types may have different reasons as well. They are also catagorized as:
+Each of these types may have different reasons as well. They are also categorized as:
 - [[Cyber Criminal]]
 - [[Hacktivist]]
 - [[Penetration Tester]]
