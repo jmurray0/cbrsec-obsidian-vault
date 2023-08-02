@@ -1,0 +1,1 @@
+A [[Router|router]] created by Cisco which has the capability of supporting [[Firewall|firewalls]], [[Traffic Filtering|traffic filtering]], an [[Intr]]
