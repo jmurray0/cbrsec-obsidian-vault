@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/thistestnote.md",
+                "file": "COMMIT_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/thistestnote.md",
+                "file": "COMMIT_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/thistestnote.md",
+                "file": "COMMIT_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/thistestnote.md"
+                "file": "COMMIT_INFO.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   "lastOpenFiles": [
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/thistestnote.md",
+    "Progress Reports/7-31-23 - 8-4-23.md",
+    "Progress Reports/7-24-23 - 7-28-23.md",
+    "Progress Reports",
     "COMMIT_INFO.md",
     "README.md",
     "Vocabulary/General/Exploit.md",

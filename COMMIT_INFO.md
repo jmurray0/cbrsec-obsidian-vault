@@ -7,6 +7,7 @@ You're going to need `git` and `gh` for your command line. In your package manag
 Navigate to a working folder and run the following commands:
 ```bash
 mkdir gits
+cd gits
 git init
 git commit -m "initial commit"
 ```
