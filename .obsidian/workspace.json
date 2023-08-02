@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Honeypot.md"
+                "file": "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
-    "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Vocabulary/Cybersecurity/Defending/Software/NetFlow.md",
+    "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
+    "Vocabulary/Cybersecurity/Defending/Organizations",
+    "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+    "Vocabulary/Cybersecurity/Defending/Software",
     "Vocabulary/Cybersecurity/Defending/Honeypot.md",
+    "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/Malware/Types/Spyware.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
@@ -173,9 +178,6 @@
     "Vocabulary/assumme.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/thistestnote.md",
-    "Progress Reports/7-31-23 - 8-4-23.md",
-    "Progress Reports/7-24-23 - 7-28-23.md",
-    "Progress Reports",
-    "README.md"
+    "Progress Reports"
   ]
 }

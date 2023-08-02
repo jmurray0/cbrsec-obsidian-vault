@@ -1,0 +1,1 @@
+Network infrastructure used to gather information about data flowing through a network. Caches information as it comes through and pushes them back out.
