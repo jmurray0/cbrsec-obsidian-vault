@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
+                "file": "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
+                "file": "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
+                "file": "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md"
+                "file": "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md"
               }
             }
+          },
+          {
+            "id": "7859cfc34df42568",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4112b81e26ceeddc",
+  "active": "e592d5dbe7af1175",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
     "Vocabulary/Networking/Hardware/Intrusion Prevention System (IPS).md",
     "Vocabulary/Networking/Hardware/Intrusion Detection System (IDS).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/Cisco Identity Services Engine (ISE).md",
@@ -155,7 +165,6 @@
     "Vocabulary/Cybersecurity/Defending/Recovery/Data Loss Prevention Software (DLP).md",
     "Vocabulary/Cybersecurity/Defending/Recovery",
     "Vocabulary/Cybersecurity/Defending/Untitled.md",
-    "Vocabulary/Cybersecurity/Defending/Investigation/Security Information and Event Management (SIEM).md",
     "Vocabulary/Cybersecurity/Defending/Investigation/NetFlow.md",
     "Vocabulary/Cybersecurity/Defending/Security Playbook.md",
     "Vocabulary/Cybersecurity/Defending/Organizations/Computer Security Incident Response Team (CSIRT).md",
