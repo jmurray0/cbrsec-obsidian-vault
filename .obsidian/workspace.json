@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMMIT_INFO.md"
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "acc92e8d5e75a8c4",
   "lastOpenFiles": [
+    "COMMIT_INFO.md",
+    "README.md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/General/Exploit.md",
     "Vocabulary/General/Vulnerability.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Buffer Overflow.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
-    "COMMIT_INFO.md",
     "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
     "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
-    "README.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md"
   ]
 }
