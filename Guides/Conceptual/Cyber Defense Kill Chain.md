@@ -45,5 +45,3 @@ Remote control of the target is gained through a [[Command and Control (C2)|comm
 The attacker performs malicious actions like information theft or executes additional attacks on other devices on the network by working through the kill chain again.
 
 ****
-
-- 
