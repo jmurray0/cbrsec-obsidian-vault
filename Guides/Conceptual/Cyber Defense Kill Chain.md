@@ -1,0 +1,1 @@
+A concept which describes the escalation process of an [[Attacker|attacker]] attempting to penetrate a [[ne]]

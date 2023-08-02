@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md"
+                "file": "Guides/Conceptual/Cyber Defense Kill Chain.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "4112b81e26ceeddc",
   "lastOpenFiles": [
+    "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
+    "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Guides/Conceptual",
     "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
     "Vocabulary/Networking/Hardware/Untitled.md",
     "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
@@ -156,7 +159,6 @@
     "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Networking/Network.md",
     "Vocabulary/Networking/Hardware/Cisco Next Generation Firewalls.md",
-    "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
     "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
     "Vocabulary/Networking/Hardware/Cisco Integrated Services Router (ISR).md",
     "Vocabulary/Cybersecurity/Defending/Firewalls/Application Layer Firewall.md",
@@ -174,7 +176,6 @@
     "Vocabulary/General/Vulnerability.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Buffer Overflow.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerability.md",
-    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
-    "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md"
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md"
   ]
 }
