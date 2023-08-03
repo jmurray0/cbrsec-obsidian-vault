@@ -7,9 +7,13 @@ man crunch
 ```
 Opens the manual page for `crunch`.
 
+****
+
 ```bash
 crunch [minLength] [maxLength]
 ```
 Generates a password list with strings matching the minimum and maximum characters.
 
-Switch Cases:
+Switch cases:
+- `-f` include a prebuilt character set.
+- 
