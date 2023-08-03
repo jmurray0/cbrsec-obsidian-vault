@@ -1,6 +1,6 @@
 An internet encryption tool using [[Secure Sockets Layer (SSL)]].
 
-#### MANUAL
+### MANUAL
 ****
 
 ```bash

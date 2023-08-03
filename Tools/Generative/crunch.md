@@ -1,6 +1,6 @@
 A [[Password List]] generator with options to use character lists, or build your own.
 
-#### MANUAL
+### MANUAL
 ****
 
 ```bash

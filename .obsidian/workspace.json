@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Generative/crunch.md",
-                "mode": "preview",
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Generative/crunch.md",
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Generative/crunch.md",
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Generative/crunch.md"
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Tools/Encryption/OpenSSL.md",
+    "Vocabulary/Cybersecurity/Standards/ISO 27000.md",
     "Tools/Generative/crunch.md",
+    "Tools/Encryption/OpenSSL.md",
+    "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
+    "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
     "Tools/Encryption",
@@ -186,12 +189,9 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/DNS Poisoning.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
     "Vocabulary/Cybersecurity/Defending/Recovery",
-    "Vocabulary/Cybersecurity/Defending/Organizations",
-    "Vocabulary/Cybersecurity/Defending/Investigation"
+    "Vocabulary/Cybersecurity/Defending/Organizations"
   ]
 }
