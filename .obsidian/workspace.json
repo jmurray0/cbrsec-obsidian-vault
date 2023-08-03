@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md"
+                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
+    "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
+    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
-    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
-    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
     "Vocabulary/Cybersecurity/Defending/Honeypot.md",
@@ -183,7 +184,6 @@
     "Vocabulary/Cybersecurity/CIA Triad/Integrity.md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Protect and Defend (NCWF).md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Investigate (NCWF).md",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Operate and Maintain (NCWF).md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
     "Vocabulary/Cybersecurity/Defending/Recovery",
