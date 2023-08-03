@@ -1,0 +1,1 @@
+An attack which attempts to exhaust system resources by overworking the CPU or flooding memory.
