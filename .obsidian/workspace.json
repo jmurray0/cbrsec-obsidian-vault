@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
+                "file": "Tools/Encryption/OpenSSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
+                "file": "Tools/Encryption/OpenSSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
+                "file": "Tools/Encryption/OpenSSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md"
+                "file": "Tools/Encryption/OpenSSL.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
     "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
+    "Tools/Encryption/OpenSSL.md",
+    "Tools/Encryption",
+    "Tools",
+    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
     "Vocabulary/Cybersecurity/Defending/Policies",
     "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
@@ -184,14 +187,11 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Algorithm (Attack).md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
     "Vocabulary/Cybersecurity/Defending/Recovery",
     "Vocabulary/Cybersecurity/Defending/Organizations",
     "Vocabulary/Cybersecurity/Defending/Investigation",
-    "Guides/Conceptual",
-    "Vocabulary/Networking/Hardware",
-    "Progress Reports"
+    "Guides/Conceptual"
   ]
 }
