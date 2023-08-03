@@ -1,1 +1,1 @@
-Encryption protocol that operates 
+Encryption protocol that operates on the [[Internet Layer (TCP-IP)]]. Provides encrypted communication between computers over [[Transmission Control Protocol - Internet Protocol (TCP-IP)]].

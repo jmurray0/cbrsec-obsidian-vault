@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
+                "file": "Vocabulary/Cybersecurity/Concepts/States of Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
+                "file": "Vocabulary/Cybersecurity/Concepts/States of Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
+                "file": "Vocabulary/Cybersecurity/Concepts/States of Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md"
+                "file": "Vocabulary/Cybersecurity/Concepts/States of Information.md"
               }
             }
           },
@@ -157,11 +157,14 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
-    "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
-    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
+    "Vocabulary/Networking/Network Address Translation (NAT).md",
+    "Vocabulary/Networking/Network.md",
+    "Vocabulary/Networking/Internet of Things (IoT).md",
+    "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
+    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
+    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Vocabulary/Networking/Proxy Server.md",
     "Vocabulary/Networking/Transport Layer Security (TLS).md",
     "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
@@ -181,9 +184,6 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Algorithm (Attack).md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
-    "Guides/Infiltration/Exploiting Vulnerabilities.md",
-    "Vocabulary/Cybersecurity/CIA Triad/Confidentiality.md",
-    "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
     "Vocabulary/Cybersecurity/Defending/Recovery",

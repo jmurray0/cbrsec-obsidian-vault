@@ -7,12 +7,14 @@ Sometimes referred to as "Data at rest". The data is currently idle, being store
 #### TRANSMISSION
 The data is currently in transit.
 
-Countermeasures:
+Defensive measures:
 - [[Virtual Private Network (VPN)]]
 - [[Secure Sockets Layer (SSL)]]
-- IPSec
+- [[Internet Protocol Security (IPsec)]]
 - [[Encryption]]
-
-
 #### PROCESSING
 The data is currently being utilized by software.
+
+Defensive measures:
+- [[Access Control List (ACL)]]
+- [[Hashing Function]]
