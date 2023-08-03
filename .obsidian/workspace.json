@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Encryption/OpenSSL.md",
+                "file": "Tools/Generative/crunch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Encryption/OpenSSL.md",
+                "file": "Tools/Generative/crunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Encryption/OpenSSL.md",
+                "file": "Tools/Generative/crunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Encryption/OpenSSL.md"
+                "file": "Tools/Generative/crunch.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
     "Tools/Encryption/OpenSSL.md",
+    "Tools/Generative/crunch.md",
+    "Tools/Generative",
+    "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
     "Tools/Encryption",
     "Tools",
     "Vocabulary/Cybersecurity/Concepts/States of Information.md",
@@ -186,12 +188,10 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/DNS Poisoning.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Brute Force.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
     "Vocabulary/Cybersecurity/Defending/Recovery",
     "Vocabulary/Cybersecurity/Defending/Organizations",
-    "Vocabulary/Cybersecurity/Defending/Investigation",
-    "Guides/Conceptual"
+    "Vocabulary/Cybersecurity/Defending/Investigation"
   ]
 }

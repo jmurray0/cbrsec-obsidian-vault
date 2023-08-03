@@ -6,7 +6,7 @@ An internet encryption tool using [[Secure Sockets Layer (SSL)]].
 ```bash
 man openssl
 ```
-Opens the manual page for `openssl`
+Opens the manual page for `openssl`.
 
 ```bash
 openssl help
