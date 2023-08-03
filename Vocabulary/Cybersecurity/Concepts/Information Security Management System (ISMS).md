@@ -32,4 +32,8 @@ Describes the restriction of access rights to networks, systems, applications, f
 #### INFORMATION SECURITY INCIDENT MANAGEMENT
 Describes how to anticipate and respond to information security breaches.
 
-#### 
+#### BUSINESS CONTINUITY MANAGEMENT
+Describes the protection, maintenance, and recovery of business-critical processes and systems.
+
+#### COMPLIANCE
+Describes the process of ensuring conformance with information security policies, standards, and regulations.
