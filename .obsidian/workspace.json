@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c40de05b3164991",
+        "id": "a14b53fec61fc357",
         "type": "tabs",
         "children": [
           {
-            "id": "4112b81e26ceeddc",
+            "id": "5c94656381fe4070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/AAA (Concept).md",
+                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/AAA (Concept).md",
+                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/AAA (Concept).md",
+                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Defending/AAA (Concept).md"
+                "file": "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md"
               }
             }
           },
@@ -155,11 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4112b81e26ceeddc",
+  "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Defending/Cybersecurity Countermeasures.md",
-    "Vocabulary/Cybersecurity/Defending/AAA (Concept).md",
-    "Vocabulary/Cybersecurity/Defending/States of Information.md",
+    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
+    "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
+    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
+    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+    "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
+    "Vocabulary/Cybersecurity/Defending/Encryption.md",
+    "Vocabulary/Cybersecurity/Defending/Honeypot.md",
+    "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
+    "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
+    "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
+    "Vocabulary/Networking/Access Control List (ACL).md",
+    "Vocabulary/Cybersecurity/Concepts",
     "Vocabulary/Cybersecurity/Hacking Techniques/Packet Injection.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Password List.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/DNS Poisoning.md",
@@ -167,14 +176,8 @@
     "Vocabulary/Cybersecurity/Hacking Techniques/Blended Attack.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Backdoor.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Algorithm (Attack).md",
-    "Vocabulary/Cybersecurity/Defending/Encryption.md",
-    "Vocabulary/Cybersecurity/Defending/Honeypot.md",
-    "Vocabulary/Cybersecurity/CIA Triad/CIA Triad.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
-    "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
-    "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
-    "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
     "Vocabulary/Cybersecurity/CIA Triad/Confidentiality.md",
     "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
     "Vocabulary/Cybersecurity/CIA Triad/Integrity.md",
@@ -183,8 +186,6 @@
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Operate and Maintain (NCWF).md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Eavesdropping.md",
-    "Vocabulary/General/National Common Vulnerabilities and Exposures (CVE).md",
     "Vocabulary/Cybersecurity/Defending/Recovery",
     "Vocabulary/Cybersecurity/Defending/Organizations",
     "Vocabulary/Cybersecurity/Defending/Investigation",

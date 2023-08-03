@@ -13,4 +13,9 @@ Users prove their identity with a username and password combination, ID card, or
 #### AUTHORIZATION
 *Determines which resources users can access, as well as operations they can perform.*
 
-[[Access Control List (ACL)]] 
+[[Access Control List (ACL)]] is a system that determines whether a user has certain access privileges once the user authenticates. Authorization controls access to specific resources as well as broad scope permissions. Specific users may be locked out of using a device, or accessing a database or spreadsheet.
+
+#### ACCOUNTING
+*Keeping track of what users do.*
+
+Tracking what users access, how much time they spend with them, how often they access them, and any changes made to the resources. A system can track each data transaction and provide auditing results.
