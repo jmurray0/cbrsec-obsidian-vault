@@ -1,0 +1,1 @@
+Authentication protocol which encrypts data in transmission across the web.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
+                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
+                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
+                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Secure Sockets Layer (SSL).md"
+                "file": "Vocabulary/Networking/Internet Protocol Security (IPsec).md"
               }
             }
           },
@@ -158,9 +158,12 @@
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
     "Vocabulary/Cybersecurity/Concepts/States of Information.md",
-    "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
-    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+    "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
     "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
+    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+    "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
+    "Vocabulary/Networking/Proxy Server.md",
+    "Vocabulary/Networking/Transport Layer Security (TLS).md",
     "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
     "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
@@ -181,9 +184,6 @@
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Cybersecurity/CIA Triad/Confidentiality.md",
     "Vocabulary/Cybersecurity/CIA Triad/Availability.md",
-    "Vocabulary/Cybersecurity/CIA Triad/Integrity.md",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Protect and Defend (NCWF).md",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas/Investigate (NCWF).md",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
     "Vocabulary/Cybersecurity/Defending/Recovery",
