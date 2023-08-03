@@ -1,3 +1,7 @@
+A triad of rules which define the entirety of Cybersecurity thought.
+
+****
+
 #### CONFIDENTIALITY
 Data privacy. Restriction of information and compartmentalizing of sensitivity. ^268306
 
