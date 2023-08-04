@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Reports/7-31-23 - 8-4-23.md",
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Reports/7-31-23 - 8-4-23.md",
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Reports/7-31-23 - 8-4-23.md",
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Reports/7-31-23 - 8-4-23.md"
+                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md"
               }
             }
           },
@@ -157,13 +157,14 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Progress Reports/7-24-23 - 7-28-23.md",
+    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
+    "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
+    "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports/8-7-23 - 8-11-23.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
     "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
-    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
@@ -182,7 +183,6 @@
     "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
     "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
     "Vocabulary/Cybersecurity/Concepts/States of Information.md",
-    "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
