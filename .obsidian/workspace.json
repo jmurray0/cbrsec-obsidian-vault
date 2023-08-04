@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
+                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/State of Applicability.md"
+                "file": "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md"
               }
             }
           },
@@ -157,37 +157,37 @@
   },
   "active": "5c94656381fe4070",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
-    "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
-    "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
-    "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
-    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
     "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
-    "Vocabulary/Cybersecurity/Standards/ISO 27002.md",
-    "Vocabulary/Cybersecurity/Standards/ISO 27001.md",
-    "Vocabulary/Cybersecurity/Standards/ISO 27000.md",
-    "Tools/Generative/crunch.md",
-    "Tools/Encryption/OpenSSL.md",
-    "Vocabulary/Cybersecurity/Standards",
-    "Tools/Generative",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
+    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Pretexting.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Weak Security Practice.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
+    "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Non-validated Input.md",
+    "Vocabulary/Cybersecurity/Defending/Recovery/Data Loss Prevention Software (DLP).md",
     "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
-    "Tools/Encryption",
-    "Tools",
-    "Vocabulary/Cybersecurity/Defending/Policies",
-    "Vocabulary/Networking/Secure Sockets Layer (SSL).md",
-    "Vocabulary/Networking/Network Address Translation (NAT).md",
-    "Vocabulary/Networking/Network.md",
-    "Vocabulary/Networking/Internet of Things (IoT).md",
-    "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
-    "Vocabulary/Networking/Proxy Server.md",
-    "Vocabulary/Networking/Transport Layer Security (TLS).md",
+    "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
     "Vocabulary/Cybersecurity/Defending/Encryption.md",
     "Vocabulary/Cybersecurity/Defending/Honeypot.md",
     "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
-    "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
     "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
-    "Vocabulary/Networking/Access Control List (ACL).md",
+    "Tools/Generative/crunch.md",
+    "Tools/Encryption/OpenSSL.md",
+    "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
+    "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
+    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
+    "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
+    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
+    "Vocabulary/Cybersecurity/Standards/ISO 27002.md",
+    "Vocabulary/Cybersecurity/Standards/ISO 27001.md",
+    "Vocabulary/Cybersecurity/Standards/ISO 27000.md",
+    "Vocabulary/Cybersecurity/Standards",
+    "Tools/Generative",
+    "Tools/Encryption",
+    "Tools",
+    "Vocabulary/Cybersecurity/Defending/Policies",
     "Vocabulary/Cybersecurity/Concepts",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
