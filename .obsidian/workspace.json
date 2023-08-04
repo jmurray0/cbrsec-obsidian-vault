@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef64506c2ccf0f5a",
+        "id": "924c42cf007b01ac",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3d50d060c47fbe",
+            "id": "bd94cd8bb5d72807",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c3d50d060c47fbe",
+  "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
+    "Progress Reports/7-31-23 - 8-4-23.md",
+    "Progress Reports/8-7-23 - 8-11-23.md",
+    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
@@ -171,10 +166,7 @@
     "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
     "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
     "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
-    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
-    "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
-    "Progress Reports/8-7-23 - 8-11-23.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
