@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "a14b53fec61fc357",
+        "id": "a6558eaef4a3795f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c94656381fe4070",
+            "id": "1665fbde736b042a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
-                "mode": "source",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "70acd4e930e299c4"
+          }
+        ]
+      },
+      {
+        "id": "72322a8247a1e5d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f9b9977c23c736",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            },
+            "group": "70acd4e930e299c4"
           }
         ]
       }
@@ -69,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5110321044922
   },
   "right": {
     "id": "b15ffeb7dec49c70",
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md"
+                "file": "Vocabulary/Cybersecurity/Attackers/Hacker.md"
               }
             }
           },
@@ -155,16 +198,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c94656381fe4070",
+  "active": "1665fbde736b042a",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
+    "Vocabulary/Cybersecurity/Attackers/Roles/Penetration Tester.md",
+    "Vocabulary/General/Penetration Testing.md",
+    "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
+    "Vocabulary/Cybersecurity/Attackers/Amateur.md",
+    "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
+    "Books/Intro to Cyber Security/Chapter 1.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
+    "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
+    "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
     "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
+    "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
+    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Progress Reports/8-7-23 - 8-11-23.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
-    "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
-    "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
     "Vocabulary/Cybersecurity/Social Engineering/Techniques/Quid pro quo (Something for Something).md",
@@ -173,16 +226,6 @@
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Non-validated Input.md",
     "Vocabulary/Cybersecurity/Defending/Recovery/Data Loss Prevention Software (DLP).md",
-    "Vocabulary/Cybersecurity/Defending/National Cybersecurity Workforce Framework.md",
-    "Vocabulary/Cybersecurity/Defending/Encryption.md",
-    "Vocabulary/Cybersecurity/Defending/Honeypot.md",
-    "Vocabulary/Cybersecurity/Defending/Impact Reduction.md",
-    "Vocabulary/Cybersecurity/Defending/Real Time Scanning from Edge to Endpoint.md",
-    "Tools/Generative/crunch.md",
-    "Tools/Encryption/OpenSSL.md",
-    "Vocabulary/Cybersecurity/Concepts/Security Playbook.md",
-    "Vocabulary/Cybersecurity/Concepts/State of Applicability.md",
-    "Vocabulary/Cybersecurity/Concepts/States of Information.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
