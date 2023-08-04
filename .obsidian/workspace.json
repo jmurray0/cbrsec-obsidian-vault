@@ -11,8 +11,12 @@
             "id": "9c3d50d060c47fbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
   },
   "active": "9c3d50d060c47fbe",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Attackers/Roles/Penetration Tester.md",
@@ -174,7 +183,6 @@
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Weak Security Practice.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Race Conditions.md",
     "Vocabulary/Cybersecurity/Vulnerabilities/Software Vulnerabilities/Non-validated Input.md",
-    "Vocabulary/Cybersecurity/Defending/Recovery/Data Loss Prevention Software (DLP).md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
