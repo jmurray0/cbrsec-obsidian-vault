@@ -1,0 +1,1 @@
+A cipher that transforms a fixed-length block of plain text into a common block of cipher text of 64 or 128 bits.

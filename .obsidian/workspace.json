@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md"
               }
             }
           },
@@ -158,8 +158,13 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Block Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication/Symmetric Encryption.md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication/Asymmetric Encryption.md",
     "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers",
+    "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
     "Vocabulary/Cybersecurity/Malware/Types/Virus.md",
     "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
     "Vocabulary/Cybersecurity/Malware/Concepts",
@@ -181,10 +186,6 @@
     "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
     "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
-    "Vocabulary/Cybersecurity/Concepts/CIA Triad.md",
-    "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
-    "Progress Reports/7-24-23 - 7-28-23.md",
-    "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
@@ -192,7 +193,6 @@
     "Vocabulary/Cybersecurity/Defending/Policies",
     "Vocabulary/Cybersecurity/Concepts",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
-    "Vocabulary/Cybersecurity/Defending/Recovery"
+    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework"
   ]
 }
