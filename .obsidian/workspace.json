@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md"
               }
             }
           },
@@ -156,14 +156,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "196a29d277ef04b7",
+  "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/International Data Encryption Algorithm (IDEA).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Pretty Good Privacy (PGP).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Advanced Encryption Standard (AES).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Diffie-Hellman.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/ElGamal.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Pretty Good Privacy (PGP).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Advanced Encryption Standard (AES).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/International Data Encryption Algorithm (IDEA).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Stream Cipher.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers/Untitled.md",
@@ -183,9 +186,6 @@
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/8-7-23 - 8-11-23.md",
-    "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
-    "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",

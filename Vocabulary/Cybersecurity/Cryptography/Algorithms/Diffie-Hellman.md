@@ -1,0 +1,1 @@
+An [[Asymmetric Encryption]] algorithm which provides an electronic exchange method to share the secret key.
