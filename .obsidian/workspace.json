@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
+                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
+                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
+                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md"
+                "file": "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
+    "Vocabulary/Cybersecurity/Malware/Types/Virus.md",
+    "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
     "Vocabulary/Cybersecurity/Malware/Concepts",
     "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
-    "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
     "Vocabulary/Cybersecurity/Standards/ISO 27002.md",
     "Vocabulary/Cybersecurity/Standards/ISO 27001.md",
     "Vocabulary/Cybersecurity/Standards/ISO 27000.md",
@@ -182,8 +185,6 @@
     "Vocabulary/Cybersecurity/Defending/Cybersecurity Policies.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Tailgating.md",
-    "Vocabulary/Cybersecurity/Social Engineering/Techniques/Social Engineering.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
@@ -192,7 +193,6 @@
     "Vocabulary/Cybersecurity/Concepts",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
     "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework",
-    "Vocabulary/Cybersecurity/Defending/Recovery",
-    "Vocabulary/Cybersecurity/Defending/Organizations"
+    "Vocabulary/Cybersecurity/Defending/Recovery"
   ]
 }
