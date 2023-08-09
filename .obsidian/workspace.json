@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Block Cipher.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Block Cipher.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/Symmetric Encryption.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/Asymmetric Encryption.md",
     "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
@@ -185,7 +186,6 @@
     "Vocabulary/Cybersecurity/Attackers/Amateur.md",
     "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
-    "Vocabulary/Cybersecurity/Hacking Techniques/Zero-day Exploit.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",

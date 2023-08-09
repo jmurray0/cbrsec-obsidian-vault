@@ -1,1 +1,1 @@
-A cipher that transforms one bit or byte into 
+A cipher that transforms one bit or byte of plain text to one bit or byte of cipher text.
