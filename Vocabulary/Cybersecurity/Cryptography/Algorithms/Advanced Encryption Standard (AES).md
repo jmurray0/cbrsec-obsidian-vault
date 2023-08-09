@@ -1,0 +1,1 @@
+A scheme of [[Symmetric Encryption]]/[[Block Cipher]] with a 128-bit block size and a variable 128-bit, 192-bit, or 256-bit key.

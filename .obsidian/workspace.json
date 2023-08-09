@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md"
               }
             }
           },
@@ -156,11 +156,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd94cd8bb5d72807",
+  "active": "196a29d277ef04b7",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Stream Cipher.md",
-    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Digital Encryption Standard (DES).md",
-    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Block Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/International Data Encryption Algorithm (IDEA).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Pretty Good Privacy (PGP).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Advanced Encryption Standard (AES).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Stream Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Untitled.md",
+    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Triple DES.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/Symmetric Encryption.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/Asymmetric Encryption.md",
     "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
@@ -179,13 +186,6 @@
     "Vocabulary/Cybersecurity/Concepts/Cybersecurity Countermeasures.md",
     "Vocabulary/Cybersecurity/Concepts/AAA (Concept).md",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/Roles/Penetration Tester.md",
-    "Vocabulary/General/Penetration Testing.md",
-    "Vocabulary/Cybersecurity/Attackers/White Hat Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/Roles/Hacktivist.md",
-    "Vocabulary/Cybersecurity/Attackers/Amateur.md",
-    "Vocabulary/Cybersecurity/Attackers/Script Kiddie.md",
-    "Books/Intro to Cyber Security/Chapter 1.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",

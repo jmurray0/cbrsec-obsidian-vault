@@ -1,1 +1,0 @@
-A scheme of [[Symmetric Encryption]]/[[Block Cipher]]  
