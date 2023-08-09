@@ -1,0 +1,1 @@
+A specific algorithm that combines a cryptographic hash function with a secret key.

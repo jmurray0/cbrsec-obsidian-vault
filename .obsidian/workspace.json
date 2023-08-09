@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Diffie-Hellman.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Diffie-Hellman.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/ElGamal.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
@@ -185,7 +186,6 @@
     "Vocabulary/Cybersecurity/Standards/ISO 27000.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
-    "Progress Reports/8-7-23 - 8-11-23.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
