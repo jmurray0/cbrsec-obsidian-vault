@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md"
+                "file": "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md"
               }
             }
           },
@@ -158,22 +158,22 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Stream Cipher.md",
+    "Vocabulary/Cybersecurity/Cryptography/Authentication/Asymmetric Encryption.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
+    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Diffie-Hellman.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/ElGamal.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Pretty Good Privacy (PGP).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Advanced Encryption Standard (AES).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/International Data Encryption Algorithm (IDEA).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Stream Cipher.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers/Untitled.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers/Triple DES.md",
     "Vocabulary/Cybersecurity/Cryptography/Authentication/Symmetric Encryption.md",
-    "Vocabulary/Cybersecurity/Cryptography/Authentication/Asymmetric Encryption.md",
     "Vocabulary/Cybersecurity/Malware/Types/Ransomware.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
