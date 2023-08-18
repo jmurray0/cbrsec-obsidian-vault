@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/General/Vulnerability.md",
+                "file": "Progress Reports/8-14-23 - 8-18-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vocabulary/General/Vulnerability.md",
+                "file": "Progress Reports/8-14-23 - 8-18-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/General/Vulnerability.md",
+                "file": "Progress Reports/8-14-23 - 8-18-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/General/Vulnerability.md",
+                "file": "Progress Reports/8-14-23 - 8-18-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/General/Vulnerability.md"
+                "file": "Progress Reports/8-14-23 - 8-18-23.md"
               }
             }
           },
@@ -199,8 +199,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "196a29d277ef04b7",
+  "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
+    "Progress Reports/7-31-23 - 8-4-23.md",
+    "Progress Reports/8-14-23 - 8-18-23.md",
+    "Progress Reports/7-24-23 - 7-28-23.md",
+    "Vocabulary/General/Vulnerability.md",
     "Tools/Reconnaissance",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
@@ -225,17 +229,13 @@
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Types/Worm.md",
     "Vocabulary/Cybersecurity/Malware/Types/Virus.md",
-    "Vocabulary/Cybersecurity/Malware/Concepts/Logic Bomb.md",
     "Vocabulary/Cybersecurity/Malware/Concepts",
-    "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
-    "Vocabulary/Cybersecurity/Standards/ISO 27002.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
     "Tools",
     "Vocabulary/Cybersecurity/Defending/Policies",
     "Vocabulary/Cybersecurity/Concepts",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework"
+    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas"
   ]
 }
