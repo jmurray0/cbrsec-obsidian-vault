@@ -11,9 +11,56 @@
             "id": "bd94cd8bb5d72807",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/General/Vulnerability.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "73452919010231a6"
+          }
+        ]
+      },
+      {
+        "id": "0ce76313cc44c573",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c6fa77c2c42dca",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Vocabulary/General/Vulnerability.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "73452919010231a6"
           }
         ]
       }
@@ -81,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vocabulary/General/Vulnerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vocabulary/General/Vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vocabulary/General/Vulnerability.md"
+              }
             }
           },
           {
@@ -150,6 +201,8 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
@@ -176,8 +229,6 @@
     "Vocabulary/Cybersecurity/Concepts/Information Security Management System (ISMS).md",
     "Vocabulary/Cybersecurity/Standards/ISO 27002.md",
     "Vocabulary/Cybersecurity/Standards/ISO 27001.md",
-    "Vocabulary/Cybersecurity/Standards/ISO 27000.md",
-    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
