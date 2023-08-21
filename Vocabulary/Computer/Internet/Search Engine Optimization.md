@@ -1,1 +1,1 @@
-Algorithmic system used by search engines to improve good results on their systems. 
+shydAlgorithmic system used by search engines to improve good results on their systems. 
