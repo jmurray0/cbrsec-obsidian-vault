@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Reports/8-14-23 - 8-18-23.md",
+                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Reports/8-14-23 - 8-18-23.md",
+                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Reports/8-14-23 - 8-18-23.md",
+                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Reports/8-14-23 - 8-18-23.md"
+                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
-    "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/8-14-23 - 8-18-23.md",
+    "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Vocabulary/General/Vulnerability.md",
     "Tools/Reconnaissance",
