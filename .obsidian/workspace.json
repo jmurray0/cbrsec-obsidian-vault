@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Reports/8-21-23 - 8-25-23.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "fa36dcaf416c8e92"
+          }
+        ]
+      },
+      {
+        "id": "17791fe8a6fea413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded666fcc1e911e6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "fa36dcaf416c8e92"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Reports/8-21-23 - 8-25-23.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Reports/8-21-23 - 8-25-23.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Reports/8-21-23 - 8-25-23.md"
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md"
               }
             }
           },
@@ -156,17 +199,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd94cd8bb5d72807",
+  "active": "ded666fcc1e911e6",
   "lastOpenFiles": [
-    "Progress Reports/8-14-23 - 8-18-23.md",
+    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Progress Reports/8-21-23 - 8-25-23.md",
+    "Progress Reports/8-14-23 - 8-18-23.md",
     "Vocabulary/Computer/Internet/Search Engine Optimization.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Vocabulary/General/Vulnerability.md",
     "Tools/Reconnaissance",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Books/Intro to Cyber Security/Chapter 1.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",

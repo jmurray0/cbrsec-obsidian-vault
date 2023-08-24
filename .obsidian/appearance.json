@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Things",
-  "accentColor": ""
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "interfaceFontFamily": "Fira Sans",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "Fira Sans"
 }
