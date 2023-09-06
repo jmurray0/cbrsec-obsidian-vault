@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md"
+                "file": "Vocabulary/Cybersecurity/Attackers/Attacker.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
+    "Vocabulary/Cybersecurity/Attackers/Advanced Persistent Threat.md",
+    "Guides/Infiltration/Exploiting Vulnerabilities.md",
     "Vocabulary/Computer/Internet/Search Engine Optimization.md",
     "Progress Reports/8-21-23 - 8-25-23.md",
     "Progress Reports/8-14-23 - 8-18-23.md",
@@ -183,8 +185,6 @@
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Pretty Good Privacy (PGP).md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Advanced Encryption Standard (AES).md",
-    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Untitled.md",
-    "Vocabulary/Cybersecurity/Cryptography/Ciphers/Triple DES.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Concepts",
     "Vocabulary/Cybersecurity/Standards",
