@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md",
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md",
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md",
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Computer/Internet/Search Engine Optimization.md"
+                "file": "Guides/Infiltration/Exploiting Vulnerabilities.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "bd94cd8bb5d72807",
   "lastOpenFiles": [
+    "Vocabulary/Computer/Internet/Search Engine Optimization.md",
     "Progress Reports/8-21-23 - 8-25-23.md",
     "Progress Reports/8-14-23 - 8-18-23.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Tools/Encryption/OpenSSL.md",
     "Tools/Generative/crunch.md",
-    "Vocabulary/Computer/Internet/Search Engine Optimization.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Vocabulary/General/Vulnerability.md",
