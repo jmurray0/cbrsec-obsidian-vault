@@ -1,21 +1,24 @@
 {
 	"nodes":[
-		{"id":"214d4482ba22e62e","x":-180,"y":-100,"width":250,"height":50,"type":"text","text":"User Interface"},
-		{"id":"69d9a6d10a43a7a8","x":-430,"y":450,"width":250,"height":60,"type":"text","text":"List Generator"},
-		{"id":"d84b95d53a86ba46","x":-15,"y":450,"width":250,"height":60,"type":"text","text":"Inputs"},
-		{"id":"45b86fb7cad6980a","x":-430,"y":610,"width":250,"height":60,"type":"text","text":"Search"},
-		{"id":"64b296f8fb6cd221","x":170,"y":640,"width":250,"height":60,"type":"text","text":"Image Icons"},
-		{"id":"462f650018f15ac8","x":-80,"y":830,"width":250,"height":60,"type":"text","text":"Checkboxes"},
-		{"id":"128023e919ec87f3","x":170,"y":830,"width":250,"height":60,"type":"text","text":"Text Buttons\n"},
-		{"id":"93b91320b64c34a3","x":-180,"y":240,"width":250,"height":60,"type":"text","text":"Panel Constructor"},
-		{"id":"0c59487ea93e8520","x":-760,"y":830,"width":250,"height":60,"type":"text","text":"List Cache"},
-		{"id":"588c021da3f4139b","x":-305,"y":70,"width":250,"height":60,"type":"text","text":"Player List"},
-		{"id":"3119a2f1405a47b3","x":-55,"y":70,"width":250,"height":60,"type":"text","text":"Interactive Objects"},
-		{"id":"e9016d5a0650f7da","x":-915,"y":240,"width":250,"height":60,"type":"text","text":"Morphs"},
-		{"id":"2ef358aa6449a631","x":-1040,"y":450,"width":250,"height":60,"type":"text","text":"Clothes"},
-		{"id":"bc16bebd0cec5669","x":-180,"y":-380,"width":250,"height":60,"type":"text","text":"Framework"},
-		{"id":"4a08967ffd150d0a","x":-790,"y":-100,"width":250,"height":50,"type":"text","text":"Character System"},
-		{"id":"cfbd7f4098036acb","x":-665,"y":240,"width":250,"height":60,"type":"text","text":"Name, Description, Groups"}
+		{"id":"69d9a6d10a43a7a8","type":"text","text":"List Generator","x":-430,"y":450,"width":250,"height":60},
+		{"id":"d84b95d53a86ba46","type":"text","text":"Inputs","x":-15,"y":450,"width":250,"height":60},
+		{"id":"45b86fb7cad6980a","type":"text","text":"Search","x":-430,"y":610,"width":250,"height":60},
+		{"id":"64b296f8fb6cd221","type":"text","text":"Image Icons","x":170,"y":640,"width":250,"height":60},
+		{"id":"462f650018f15ac8","type":"text","text":"Checkboxes","x":-80,"y":830,"width":250,"height":60},
+		{"id":"128023e919ec87f3","type":"text","text":"Text Buttons\n","x":170,"y":830,"width":250,"height":60},
+		{"id":"93b91320b64c34a3","type":"text","text":"Panel Constructor","x":-180,"y":240,"width":250,"height":60},
+		{"id":"0c59487ea93e8520","type":"text","text":"List Cache","x":-760,"y":830,"width":250,"height":60},
+		{"id":"588c021da3f4139b","type":"text","text":"Player List","x":-305,"y":70,"width":250,"height":60},
+		{"id":"3119a2f1405a47b3","type":"text","text":"Interactive Objects","x":-55,"y":70,"width":250,"height":60},
+		{"id":"2ef358aa6449a631","type":"text","text":"Clothes","x":-1040,"y":450,"width":250,"height":60},
+		{"id":"4a08967ffd150d0a","type":"text","text":"Character System","x":-790,"y":-180,"width":250,"height":50},
+		{"id":"e9016d5a0650f7da","type":"text","text":"Morphs","x":-1040,"y":180,"width":250,"height":60},
+		{"id":"cfbd7f4098036acb","type":"text","text":"Character Description","x":-635,"y":180,"width":250,"height":60},
+		{"id":"a31cad79a87c73f6","type":"text","text":"Character Designer","x":195,"y":70,"width":250,"height":60},
+		{"id":"214d4482ba22e62e","type":"text","text":"User Interface","x":-55,"y":-180,"width":250,"height":50},
+		{"id":"bc16bebd0cec5669","type":"text","text":"Framework","x":-55,"y":-500,"width":250,"height":60},
+		{"id":"875a7f56be60843a","type":"text","text":"Administration","x":640,"y":-180,"width":250,"height":50},
+		{"id":"4d15e3d2c3654ccd","x":540,"y":70,"width":250,"height":60,"type":"text","text":"Player Whitelists"}
 	],
 	"edges":[
 		{"id":"e5e42fabd53c4aed","fromNode":"69d9a6d10a43a7a8","fromSide":"top","toNode":"93b91320b64c34a3","toSide":"bottom"},
@@ -35,6 +38,9 @@
 		{"id":"8950a3776304ea87","fromNode":"4a08967ffd150d0a","fromSide":"right","toNode":"588c021da3f4139b","toSide":"left"},
 		{"id":"ef80e8b608abdfd1","fromNode":"e9016d5a0650f7da","fromSide":"top","toNode":"4a08967ffd150d0a","toSide":"bottom"},
 		{"id":"42849895bcad5cd7","fromNode":"cfbd7f4098036acb","fromSide":"top","toNode":"4a08967ffd150d0a","toSide":"bottom"},
-		{"id":"db86e73b92397775","fromNode":"cfbd7f4098036acb","fromSide":"right","toNode":"3119a2f1405a47b3","toSide":"bottom"}
+		{"id":"cda0206bb463a9dc","fromNode":"93b91320b64c34a3","fromSide":"top","toNode":"a31cad79a87c73f6","toSide":"bottom"},
+		{"id":"9da0a7a0f0c0d55b","fromNode":"a31cad79a87c73f6","fromSide":"top","toNode":"214d4482ba22e62e","toSide":"bottom"},
+		{"id":"4e58990308395580","fromNode":"cfbd7f4098036acb","fromSide":"right","toNode":"a31cad79a87c73f6","toSide":"bottom"},
+		{"id":"5f46744a06396201","fromNode":"4d15e3d2c3654ccd","fromSide":"top","toNode":"875a7f56be60843a","toSide":"bottom"}
 	]
 }

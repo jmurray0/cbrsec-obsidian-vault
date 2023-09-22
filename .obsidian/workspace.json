@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "924c42cf007b01ac",
+        "id": "ee8e19cf61be706c",
         "type": "tabs",
         "children": [
           {
-            "id": "bd94cd8bb5d72807",
+            "id": "ce05bcf8060c717b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -61.670393051178166,
-                  "y": 105.68950503331838,
-                  "zoom": -0.4
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +158,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd94cd8bb5d72807",
+  "active": "196a29d277ef04b7",
   "lastOpenFiles": [
-    "COMMIT_INFO.md",
     "Untitled.canvas",
+    "COMMIT_INFO.md",
     "Tools/Generative/crunch.md",
     "Tools/Encryption/OpenSSL.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
@@ -198,7 +187,6 @@
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Diffie-Hellman.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/ElGamal.md",
     "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Pretty Good Privacy (PGP).md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Concepts",
     "Vocabulary/Cybersecurity/Standards",
