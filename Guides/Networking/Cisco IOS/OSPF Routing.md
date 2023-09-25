@@ -1,6 +1,4 @@
 ```shell
-#!bin/bash
-
 
 
 ```

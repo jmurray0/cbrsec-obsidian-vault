@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md",
+                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md",
+                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md",
+                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md"
+                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "ce05bcf8060c717b",
   "lastOpenFiles": [
-    "Guides/Conceptual/Cyber Defense Kill Chain.md",
     "Guides/Networking/Cisco IOS/OSPF Routing.md",
+    "Tools/Encryption/OpenSSL.md",
+    "Tools/Generative/crunch.md",
+    "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Guides/Networking/Cisco IOS/Interwork Operating System.md",
     "Guides/Networking/Cisco IOS",
     "Guides/Networking",
     "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
@@ -185,8 +188,6 @@
     "Untitled.canvas",
     "Vocabulary/Networking/Web Server.md",
     "COMMIT_INFO.md",
-    "Tools/Generative/crunch.md",
-    "Tools/Encryption/OpenSSL.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Attackers/Advanced Persistent Threat.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
@@ -197,7 +198,6 @@
     "Progress Reports/7-24-23 - 7-28-23.md",
     "Vocabulary/General/Vulnerability.md",
     "Tools/Reconnaissance",
-    "Vocabulary/Cybersecurity/Attackers/Hacker.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Concepts",
     "Vocabulary/Cybersecurity/Standards",
