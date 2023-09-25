@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5110321044922,
-    "collapsed": true
+    "width": 297.5110321044922
   },
   "right": {
     "id": "b15ffeb7dec49c70",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMMIT_INFO.md"
+                "file": "Guides/Networking/Cisco IOS/OSPF Routing.md"
               }
             }
           },
@@ -169,7 +168,22 @@
   },
   "active": "ce05bcf8060c717b",
   "lastOpenFiles": [
+    "Guides/Conceptual/Cyber Defense Kill Chain.md",
+    "Guides/Networking/Cisco IOS/OSPF Routing.md",
+    "Guides/Networking/Cisco IOS",
+    "Guides/Networking",
+    "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
+    "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
+    "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
+    "Vocabulary/Networking/Access Control List (ACL).md",
+    "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
+    "Vocabulary/Networking/Internet of Things (IoT).md",
+    "Vocabulary/Networking/Internet Protocol Security (IPsec).md",
+    "Vocabulary/Networking/Network.md",
+    "Vocabulary/Networking/Packet.md",
+    "Vocabulary/Networking/Proxy Server.md",
     "Untitled.canvas",
+    "Vocabulary/Networking/Web Server.md",
     "COMMIT_INFO.md",
     "Tools/Generative/crunch.md",
     "Tools/Encryption/OpenSSL.md",
@@ -184,26 +198,12 @@
     "Vocabulary/General/Vulnerability.md",
     "Tools/Reconnaissance",
     "Vocabulary/Cybersecurity/Attackers/Hacker.md",
-    "Books/Intro to Cyber Security/Chapter 1.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Hashing Function.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Digital Encryption Standard (DES).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/International Data Encryption Algorithm (IDEA).md",
-    "Vocabulary/Cybersecurity/Cryptography/Authentication/Hash Message Authentication (HMAC).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Rivest-Shamir-Adleman (RSA).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Stream Cipher.md",
-    "Vocabulary/Cybersecurity/Cryptography/Authentication/Asymmetric Encryption.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Elliptic Curve Cryptography (ECC).md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Diffie-Hellman.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/ElGamal.md",
-    "Vocabulary/Cybersecurity/Cryptography/Algorithms/Block Cipher.md",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Concepts",
     "Vocabulary/Cybersecurity/Standards",
     "Tools/Generative",
     "Tools/Encryption",
     "Tools",
-    "Vocabulary/Cybersecurity/Defending/Policies",
-    "Vocabulary/Cybersecurity/Concepts",
-    "Vocabulary/Cybersecurity/National Cybersecurity Workforce Framework/Areas"
+    "Vocabulary/Cybersecurity/Defending/Policies"
   ]
 }
