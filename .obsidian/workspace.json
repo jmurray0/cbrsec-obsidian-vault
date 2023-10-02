@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
+                "file": "COMMIT_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
+                "file": "COMMIT_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
+                "file": "COMMIT_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md"
+                "file": "COMMIT_INFO.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "ce05bcf8060c717b",
   "lastOpenFiles": [
+    "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Guides/Networking/Cisco IOS/Interwork Operating System.md",
     "Guides/Networking/Cisco IOS/OSPF Routing.md",
     "Tools/Generative/crunch.md",
@@ -177,7 +178,6 @@
     "Guides/Networking",
     "Vocabulary/Networking/Hardware/Virtual Private Network (VPN).md",
     "Vocabulary/Networking/Hardware/Cisco Advanced Malware Protection (AMP).md",
-    "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Vocabulary/Networking/Access Control List (ACL).md",
     "Vocabulary/Networking/Geo-spatial Information Systems (GIS).md",
     "Vocabulary/Networking/Internet of Things (IoT).md",
