@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md",
+                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md",
+                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md",
+                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Interwork Operating System.md"
+                "file": "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "ce05bcf8060c717b",
   "lastOpenFiles": [
-    "Guides/Networking/Cisco IOS/OSPF Routing.md",
     "Guides/Networking/Cisco IOS/Interwork Operating System.md",
+    "Guides/Networking/Cisco IOS/OSPF Routing.md",
     "Tools/Generative/crunch.md",
     "Tools/Encryption/OpenSSL.md",
     "Guides/Conceptual/Cyber Defense Kill Chain.md",
