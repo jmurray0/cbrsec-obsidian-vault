@@ -19,7 +19,7 @@ Enters the configuration panel for the specified device.
 ****
 
 ```cisco
-
+Switch (config)# hostname [hostname]
 ```
 
 ****
@@ -41,7 +41,7 @@ Add an IP address to the interface being configured.
 ****
 
 ```cisco
-
+Switch (config)# ip default-gateway [IPv4]
 ```
 
 ****
