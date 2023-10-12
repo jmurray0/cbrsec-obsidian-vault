@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md",
+                "file": "Guides/Networking/Cisco IOS/Router Configraution.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md",
+                "file": "Guides/Networking/Cisco IOS/Router Configraution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md",
+                "file": "Guides/Networking/Cisco IOS/Router Configraution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md"
+                "file": "Guides/Networking/Cisco IOS/Router Configraution.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "ce05bcf8060c717b",
   "lastOpenFiles": [
-    "Guides/Networking/Cisco IOS/Router Configraution.md",
     "Guides/Networking/Cisco IOS/Switch Configuration.md",
+    "Guides/Networking/Cisco IOS/Router Configraution.md",
     "COMMIT_INFO.md",
     "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
     "Guides/Networking/Cisco IOS/OSPF Routing.md",
