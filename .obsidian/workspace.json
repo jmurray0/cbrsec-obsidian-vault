@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMMIT_INFO.md",
+                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMMIT_INFO.md"
+                "file": "Guides/Networking/Cisco IOS/Switch Configuration.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "ce05bcf8060c717b",
   "lastOpenFiles": [
+    "Guides/Networking/Cisco IOS/Router Configraution.md",
+    "Guides/Networking/Cisco IOS/Switch Configuration.md",
+    "COMMIT_INFO.md",
     "Vocabulary/Networking/Hardware/Cisco Adaptive Security Appliance (ASA).md",
-    "Guides/Networking/Cisco IOS/Interwork Operating System.md",
     "Guides/Networking/Cisco IOS/OSPF Routing.md",
     "Tools/Generative/crunch.md",
     "Tools/Encryption/OpenSSL.md",
@@ -187,7 +189,6 @@
     "Vocabulary/Networking/Proxy Server.md",
     "Untitled.canvas",
     "Vocabulary/Networking/Web Server.md",
-    "COMMIT_INFO.md",
     "Vocabulary/Cybersecurity/Attackers/Attacker.md",
     "Vocabulary/Cybersecurity/Attackers/Advanced Persistent Threat.md",
     "Guides/Infiltration/Exploiting Vulnerabilities.md",
@@ -196,7 +197,6 @@
     "Progress Reports/8-14-23 - 8-18-23.md",
     "Progress Reports/7-31-23 - 8-4-23.md",
     "Progress Reports/7-24-23 - 7-28-23.md",
-    "Vocabulary/General/Vulnerability.md",
     "Tools/Reconnaissance",
     "Vocabulary/Cybersecurity/Cryptography/Ciphers",
     "Vocabulary/Cybersecurity/Malware/Concepts",
